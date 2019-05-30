@@ -1,0 +1,45 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Research/Sites/hannahcarroll.github.io/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: Hannah M. Carroll
+
+jobtitle: "PhD Candidate, Department of Ecology, Evolution, and Organismal Biology"
+address: "Iowa State University, Ames"
+fontawesome: no
+email: hcarroll@iastate.edu
+github: hannahcarroll
+twitter: hmcarro
+phone: "515 991 4058"
+#web: guinness.com
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: lato
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Ph.D. Candidate, Ecology and Evolutionary Biology, Environmental Science* \hfill 2012 - present
+
+Iowa State University, Ames
+
+Dissertation: “Late Quaternary Paleoecology of the North American Midcontinent” 
+
+Major professors: Dr. Lynn G. Clark and Dr. Alan D. Wanamaker
+
+
+2008 – B.Sc., Environmental Science 
+University of Washington, Tacoma
+Thesis: “Evaluating Conditions in In-Situ Mesocosms” 
+Advisor: Dr. Bonnie J. Becker
+8

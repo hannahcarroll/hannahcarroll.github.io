@@ -1,0 +1,13 @@
+"0","knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)"
+"0","library(vitae)"
+"2","package ‘vitae’ was built under R version 3.5.3"
+"2","
+Attaching package: ‘vitae’
+
+"
+"2","The following object is masked from ‘package:stats’:
+
+    filter
+
+"
+"0","library(rorcid)"
