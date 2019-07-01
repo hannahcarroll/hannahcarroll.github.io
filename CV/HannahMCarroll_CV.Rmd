@@ -1,9 +1,12 @@
 ---
 title: "Hannah M. Carroll"
+output:
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
+phone: 515 991 4058
 subtitle: Curriculum Vitae
 email: hcarroll@iastate.edu
-phone: "515 991 4058"
-output: pdf_document
 urlcolor: blue
 ---
 
@@ -32,38 +35,38 @@ Advisor: Dr. Bonnie J. Becker
 >**Indicates development of new course**  
 
 ### Iowa State University, Ames  
-Teaching Assistant - Biol 312L: Ecology Laboratory, field and laboratory components \hfill 2018---2019  
-Teaching Assistant - Biol 212L: Principles of Biology Laboratory II \hfill 2019  
-Instructor - EnSci 490: Independent Study \hfill 2014---2018  
-Instructor - **EnSci 203: Exploration of Environmental Science** \hfill 2014---2018  
-Instructor - *EnSci 202: Exploration of Environmental Issues* \hfill 2013---2017  
-Instructor - **EnSci 204X: Applied Exploration of Environmental Science I** \hfill 2015---2017  
-Instructor - **EnSci 205X: Applied Exploration of Environmental Science II** \hfill 2016---2017  
-Instructor - Biology 486xw: Aquatic Ecology Online \hfill 2016  
-Teaching Assistant - Biology 394: Study Abroad: Maya Mountains & Calabash Caye,  
+Teaching Assistant – Biol 312L: Ecology Laboratory, field and laboratory components \hfill 2018---2019  
+Teaching Assistant – Biol 212L: Principles of Biology Laboratory II \hfill 2019  
+Instructor – EnSci 490: Independent Study \hfill 2014–--2018  
+Instructor – **EnSci 203: Exploration of Environmental Science** \hfill 2014–--2018  
+Instructor – *EnSci 202: Exploration of Environmental Issues* \hfill 2013–--2017  
+Instructor – **EnSci 204X: Applied Exploration of Environmental Science I** \hfill 2015–--2017  
+Instructor – **EnSci 205X: Applied Exploration of Environmental Science II** \hfill 2016–--2017  
+Instructor – Biology 486xw: Aquatic Ecology Online \hfill 2016  
+Teaching Assistant – Biology 394: Study Abroad: Maya Mountains & Calabash Caye,  
 &nbsp;&nbsp; international field course \hfill 2015  
-Teaching Assistant - Biology 486xw: Aquatic Ecology Online \hfill 2013---2015  
-Instructor - *Biology 486L: Aquatic Ecology Laboratory*, field and laboratory components \hfill 2013  
+Teaching Assistant – Biology 486xw: Aquatic Ecology Online \hfill 2013–--2015  
+Instructor – *Biology 486L: Aquatic Ecology Laboratory*, field and laboratory components \hfill 2013  
 
 ### University of Washington, Tacoma
-Undergraduate Teaching Assistant - TESC 442: Marine Ecology, field course \hfill 2008  
+Undergraduate Teaching Assistant – TESC 442: Marine Ecology, field course \hfill 2008  
 
 # Grants
 ##### Total = $19,591  
 Geological Society of America Graduate Student Research Grant,  \hfill 2019  
-&nbsp;&nbsp; "Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone" $2,500  
+&nbsp;&nbsp; “Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone” $2,500  
 Geological Society of America Graduate Student Research Grant,  \hfill 2018  
-&nbsp;&nbsp; "Late Quaternary Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone" \$2,500  
+&nbsp;&nbsp; “Late Quaternary Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone” \$2,500  
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, \hfill 2016  
 &nbsp;&nbsp; Harry and Audrey Finch Scholarship (Finch Funds Award),  
-&nbsp;&nbsp; "Paleoecological Investigation of the Tallgrass Prairie-Ozark Forest Ecotone" \$1,500  
+&nbsp;&nbsp; ”Paleoecological Investigation of the Tallgrass Prairie-Ozark Forest Ecotone” \$1,500  
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, \hfill 2016  
-&nbsp;&nbsp; Lois Tiffany Scholarship Award, "Holocene Paleoecology of the Midwestern United States" \$750  
+&nbsp;&nbsp; Lois Tiffany Scholarship Award, “Holocene Paleoecology of the Midwestern United States” \$750  
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, \hfill 2015  
 &nbsp;&nbsp; Harry and Audrey Finch Scholarship (Finch Funds Award),  
-&nbsp;&nbsp; "Paleoecology of the bamboo thickets of eastern Bolivia" \$2,000  
+&nbsp;&nbsp; ”Paleoecology of the bamboo thickets of eastern Bolivia” \$2,000  
 Iowa State University College of Liberal Arts and Sciences Curriculum Development Grant, \hfill 2014  
-&nbsp;&nbsp; awarded to redevelop Biol 488 - "Identification of Aquatic Organisms Online Course."  \$1,000  
+&nbsp;&nbsp; awarded to redevelop Biol 488 - “Identification of Aquatic Organisms Online Course.”  \$1,000  
 Association for the Sciences of Limnology and Oceanography (ASLO) Student Travel Award \$500 \hfill 2014
 **Significant contributor**, Downing, J.A., C. Filstrup, and C. Williams, Twin Lakes, Iowa \hfill 2013  
 &nbsp;&nbsp; Diagnostic and Feasibility Study (Total award \$209,854, palynology portion $5,790)  
@@ -119,7 +122,7 @@ Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2
 &nbsp;&nbsp; Iowa State University.  
 Norris, J.G., I.E. Fraser, and **H. Julich**. 2012. Underwater Videographic Survey of Submerged Aquatic  
 &nbsp;&nbsp; Vegetation in Sequim Bay, WA, August 2011. Report to Hansi Halls, Environmental Planning Manager,  
-&nbsp;&nbsp; Jamestown S'Klallam Tribe, Sequim, WA.  
+&nbsp;&nbsp; Jamestown S’Klallam Tribe, Sequim, WA.  
 Norris, J.G., I.E. Fraser, and **H. Julich**. 2011. Defining fish use of subtidal vegetated habitats of the  
 &nbsp;&nbsp; Elwha and comparative shorelines. Report to Cathy Lear, Clallam County Planning Biologist,  
 &nbsp;&nbsp; Port Angeles, Washington.  
@@ -128,70 +131,70 @@ Schanz, A., **H. Julich**, L. Ferrier, and H. Berry. 2010. Eelgrass Stressor-Res
 &nbsp;&nbsp; Olympia, WA.  
 
 # Service
-Graduate Student Representative - ISU Stormwater Management Committee \hfill 2014---2018  
+Graduate Student Representative – ISU Stormwater Management Committee \hfill 2014---2018  
 Curriculum Committee Representative , Department of Ecology, Evolution, \hfill 2017---2018  
 &nbsp;&nbsp; and Organismal Biology Graduate Student Organization  
 Skype a Scientist, two high school classrooms	\hfill 2018  
-Certified Volunteer - IOWATER volunteer water quality monitoring program	\hfill 2014---2017  
-President - Environmental Science Graduate Student Organization	\hfill 2014---2015  
-Graduate Student Representative - Plant or Microbial Processes Faculty Search Committee \hfill 2014---2015  
-Volunteer Judge - Eco Day, Nevada Middle School \hfill 2015  
-Volunteer Judge - Des Moines Public Schools Science Fair	\hfill 2014---2015  
-Graduate Student Representative - EEOB external review panel	\hfill 2014  
-Volunteer Judge - Iowa State Science and Technology Fair	\hfill 2014  
-Volunteer Judge - Introduction to Environmental Issues Final Projects \hfill 2014  
-Workshop Leader - "All About Mussels" workshop for fifth grade students \hfill 2014  	
-Social Outreach and Safety Chair - Environmental Science Graduate Student Organization \hfill 2013---2014  
-Volunteer - Iowa Children's Water Festival \hfill 2013  
+Certified Volunteer – IOWATER volunteer water quality monitoring program	\hfill 2014---2017  
+President – Environmental Science Graduate Student Organization	\hfill 2014---2015  
+Graduate Student Representative – Plant or Microbial Processes Faculty Search Committee \hfill 2014---2015  
+Volunteer Judge – Eco Day, Nevada Middle School \hfill 2015  
+Volunteer Judge – Des Moines Public Schools Science Fair	\hfill 2014---2015  
+Graduate Student Representative – EEOB external review panel	\hfill 2014  
+Volunteer Judge – Iowa State Science and Technology Fair	\hfill 2014  
+Volunteer Judge – Introduction to Environmental Issues Final Projects \hfill 2014  
+Workshop Leader – “All About Mussels” workshop for fifth grade students \hfill 2014  	
+Social Outreach and Safety Chair – Environmental Science Graduate Student Organization \hfill 2013---2014  
+Volunteer – Iowa Children’s Water Festival \hfill 2013  
 
 # Invited Talks and Guest Lectures
-Carroll, H. "Spatial data wrangling in R." Demonstration for LunchinatoRS: \hfill 2019  
+Carroll, H. “Spatial data wrangling in R.” Demonstration for LunchinatoRS: \hfill 2019  
 &nbsp;&nbsp; an R-focused lunch seminar. Iowa State University, Ames  
-Carroll, H. "New Solutions for Old Problems: The Power of Big Data in Late \hfill 2018  
-&nbsp;&nbsp; Quaternary Paleoecology." Departmental seminar. University of Washington, Tacoma  
-Carroll, H. "Stream Health and Ecology." Invited guest lecture with field component. \hfill 2018  
-&nbsp;&nbsp; Biology 211 - Introductory Biology for Nonmajors. Iowa State University, Ames  
-Carroll, H. "Water Quality on the Iowa State University Campus." \hfill 2016  
+Carroll, H. “New Solutions for Old Problems: The Power of Big Data in Late \hfill 2018  
+&nbsp;&nbsp; Quaternary Paleoecology.” Departmental seminar. University of Washington, Tacoma  
+Carroll, H. “Stream Health and Ecology.” Invited guest lecture with field component. \hfill 2018  
+&nbsp;&nbsp; Biology 211 – Introductory Biology for Nonmajors. Iowa State University, Ames  
+Carroll, H. “Water Quality on the Iowa State University Campus.” \hfill 2016  
 &nbsp;&nbsp; National Pollutant Discharge Elimination System Stakeholders Meeting.  
 &nbsp;&nbsp; Iowa State University, Ames  
-Carroll, H. "Lake Eutrophication and Land Use." Departmental seminar. \hfill 2015  
+Carroll, H. “Lake Eutrophication and Land Use.” Departmental seminar. \hfill 2015  
 &nbsp;&nbsp; University of Wisconsin, Stout, Menomonie
 
 # Presentations and Posters
-**Carroll, H.**, L.G. Clark, B.E. Caissie, and A.D. Wanamaker. 2019. "Late Quaternary vegetation dynamics  
-&nbsp;&nbsp; at the southern limit of the temperate tallgrass prairie." Environmental Science Graduate Student  
+**Carroll, H.**, L.G. Clark, B.E. Caissie, and A.D. Wanamaker. 2019. “Late Quaternary vegetation dynamics  
+&nbsp;&nbsp; at the southern limit of the temperate tallgrass prairie.” Environmental Science Graduate Student  
 &nbsp;&nbsp; Symposium, Ames, IA  
-**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2018. "Preparation of a phytolith reference collection  
-&nbsp;&nbsp; for the study of late Quaternary paleoecology in Missouri." Environmental Science Graduate Student  
+**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2018. “Preparation of a phytolith reference collection  
+&nbsp;&nbsp; for the study of late Quaternary paleoecology in Missouri.” Environmental Science Graduate Student  
 &nbsp;&nbsp; Symposium, Ames, IA  
 **Carroll, H.**, 2018. Department of Ecology, Evolution, and Organismal Biology Three Minute Thesis  
 &nbsp;&nbsp; Competition, Ames, IA  
-**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2017. "Tracking Holocene vegetation change in the tallgrass  
-&nbsp;&nbsp; prairie region: the power of big data in paleoecology." Environmental Science Graduate  
+**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2017. “Tracking Holocene vegetation change in the tallgrass  
+&nbsp;&nbsp; prairie region: the power of big data in paleoecology.” Environmental Science Graduate  
 &nbsp;&nbsp; Student Symposium, Ames, IA  
-**Carroll, H.**, C.T. Filstrup, and J.A. Downing. 2016. "Comparative palynology of two agriculturally  
-&nbsp;&nbsp; eutrophic lakes" Environmental Science Graduate Student Symposium, Ames, IA  
-**Carroll, H.** and J.A. Downing. 2015. "Water quality declines and diversity loss in an agriculturally eutrophic  
-&nbsp;&nbsp; landscape" Environmental Science Graduate Student Symposium, Ames, IA  
-**Carroll, H.** and J.A. Downing. 2015. "Paleolimnological analysis of Iowa's changing landscapes"  
+**Carroll, H.**, C.T. Filstrup, and J.A. Downing. 2016. “Comparative palynology of two agriculturally  
+&nbsp;&nbsp; eutrophic lakes” Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.** and J.A. Downing. 2015. “Water quality declines and diversity loss in an agriculturally eutrophic  
+&nbsp;&nbsp; landscape” Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.** and J.A. Downing. 2015. “Paleolimnological analysis of Iowa’s changing landscapes”  
 &nbsp;&nbsp; Graduate Research in Evolutionary Biology and Ecology symposium, Ames, IA  
-**Julich, H.** and J.A. Downing. 2014. "Two hundred years of landscape change: Consequences for East  
-&nbsp;&nbsp; Okoboji Lake, Iowa." Association for the Sciences of Limnology and Oceanography Meeting, Portland, OR.  
-**Julich, H.** and J.A. Downing. 2014. "Use of palynological techniques to reconstruct macrophyte loss and  
-&nbsp;&nbsp; multiple stable states in a eutrophic lake." Graduate Research in Evolutionary Biology and  
+**Julich, H.** and J.A. Downing. 2014. “Two hundred years of landscape change: Consequences for East  
+&nbsp;&nbsp; Okoboji Lake, Iowa.” Association for the Sciences of Limnology and Oceanography Meeting, Portland, OR.  
+**Julich, H.** and J.A. Downing. 2014. “Use of palynological techniques to reconstruct macrophyte loss and  
+&nbsp;&nbsp; multiple stable states in a eutrophic lake.” Graduate Research in Evolutionary Biology and  
 &nbsp;&nbsp; Ecology symposium, Ames, IA  
-**Julich, H.** and J.A. Downing. 2013. "Use of palynological techniques to reconstruct  macrophyte loss and  
-&nbsp;&nbsp; multiple stable states in a eutrophic lake." Association for the Sciences of Limnology and  
+**Julich, H.** and J.A. Downing. 2013. “Use of palynological techniques to reconstruct  macrophyte loss and  
+&nbsp;&nbsp; multiple stable states in a eutrophic lake.” Association for the Sciences of Limnology and  
 &nbsp;&nbsp; Oceanography Meeting, New Orleans, LA  
-**Julich, H.** and B.J. Becker. 2008. "An evaluation of conditions in in situ mesocosms" Western Society of  
+**Julich, H.** and B.J. Becker. 2008. “An evaluation of conditions in in situ mesocosms” Western Society of  
 &nbsp;&nbsp; Naturalists Meeting, Vancouver, BC, Canada  
-**Julich, H.** and B.J. Becker. 2008. "In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
-&nbsp;&nbsp; Friday Harbor, Washington" University of Washington Tacoma Environmental Research  
+**Julich, H.** and B.J. Becker. 2008. “In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
+&nbsp;&nbsp; Friday Harbor, Washington” University of Washington Tacoma Environmental Research  
 &nbsp;&nbsp; Symposium, Tacoma, WA  
-**Julich, H.** and B.J. Becker. 2008. "In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
-&nbsp;&nbsp; Friday Harbor, Washington" UW Undergraduate Research Symposium, Seattle, WA  
-**Julich, H.** and B.J. Becker. 2007. "In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
-&nbsp;&nbsp; Friday Harbor, Washington" Western Society of Naturalists Meeting, Ventura, CA  
+**Julich, H.** and B.J. Becker. 2008. “In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
+&nbsp;&nbsp; Friday Harbor, Washington” UW Undergraduate Research Symposium, Seattle, WA  
+**Julich, H.** and B.J. Becker. 2007. “In situ culturing of larval sand dollars, *Dendraster excentricus*, in  
+&nbsp;&nbsp; Friday Harbor, Washington” Western Society of Naturalists Meeting, Ventura, CA  
 
 # Mentorship
 ### Iowa State University, Ames
