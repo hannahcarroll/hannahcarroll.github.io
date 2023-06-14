@@ -1,11 +1,6 @@
 ---
-title: "Western Paleoecology Lab"
-author: "Dr. Hannah M. Carroll"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    variant: gfm
-    preserve_yaml: true
+layout: home
+title: My Great Homepage
+icon: fa-home
+order: 1
 ---
-
-## Test
