@@ -8,5 +8,4 @@ output:
     preserve_yaml: true
 ---
 
-
 ## Test
