@@ -18,3 +18,4 @@ navbar:
 output:
   html_document:
     theme: paper
+    css: style.css

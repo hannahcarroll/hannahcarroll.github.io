@@ -6,10 +6,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Lab News and Updates
+## Lab News and Updates
 
 ------------------------------------------------------------------------
 
-#### June 2023
+### June 2023
 
 Congratulations to Phoebe Roberts, who was selected as this year's [High Country Conservation Advocates](https://www.hccacb.org/) fellow!
+
+### May 2023
+
+Congratulations to Laurel Trout, who was awarded a [Denver Botanic Gardens](https://www.botanicgardens.org/) 2023 Summer Horticulture Internship!
+

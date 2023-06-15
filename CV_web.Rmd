@@ -10,8 +10,7 @@ fontsize: 10pt
 #  - \usepackage{fontspec}
 #  - \setmainfont{Arial}
 
-phone: 515 991 4058
-email: hcarroll@epss.ucla.edu
+email: hcarroll@western.edu
 urlcolor: blue
 
 ---

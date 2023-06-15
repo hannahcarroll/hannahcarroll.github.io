@@ -27,6 +27,7 @@ library(fontawesome)
 ### Laurel Trout
 
 ##### Master's of Science in Ecology student (3+2)
+###### Denver Botanic Gardens 2023 Summer Horticulture Intern
 
 ------------------------------------------------------------------------
 
@@ -34,7 +35,7 @@ library(fontawesome)
 
 ##### EMPLOYS student (MSE & MEM)
 
-##### High Country Conservation Advocates Fellow
+###### High Country Conservation Advocates Fellow
 
 ------------------------------------------------------------------------
 
