@@ -17,5 +17,4 @@ navbar:
       href: news.html
 output:
   html_document:
-    variant: gfm
-    preserve_yaml: TRUE
+    theme: paper

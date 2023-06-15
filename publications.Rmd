@@ -1,0 +1,53 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Peer-Reviewed Publications
+
+\vspace{-10pt}
+
+^†^Indicates co-first authorship \| \*Indicates undergraduate co-author
+
+8\. Román-Palacios, C.^†^, **H.M. Carroll^†^**, A.J. Arnold, R.J. Flores, Q. Gan, S.V. Petersen, K.A. McKinnon, J. Emile-Geay, D. Khider, A. Tripati. BayClump: Bayesian Calibration and Temperature Reconstructions for Clumped Isotope Thermometry. Under revision at **Geochemistry, Geophysics, Geosystems**. Preprint available at: <https://www.essoar.org/doi/abs/10.1002/essoar.10507995.2>
+
+7\. Lucarelli, J.K, **H.M. Carroll**, R.N. Ulrich, B. Elliott, T.B. Coplen, R. Eagle, and A. Tripati. 2023. Equilibrated gas and carbonate standard-derived dual ($Δ_{47}$ and $Δ_{48}$) clumped isotope values. **Geochemistry, Geophysics, Geosystems** 24(2):e2022GC010458. DOI: <https://doi.org/10.1029/2022GC010458>
+
+6\. Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander. 2022. A Phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. **Molecular Phylogenetics and Evolution** 166:107320. DOI: <https://doi.org/10.1016/j.ympev.2021.107320>
+
+5\. Upadhyay, D., J. Lucarelli, A. Arnold, R. Flores, H. Bricker, R.N. Ulrich, G. Jesmok, L. Santi, W. Defliese, R. Eagle, **H.M. Carroll**, J. Bateman, V. Petryshyn, S. Loyd, J. Tang, A. Priyadarshi, B. Elliott, and A. Tripati. 2021. Carbonate clumped isotope analysis $(Δ_{47})$ of 21 carbonate standards determined via gas source isotope ratio mass spectrometry on four instrumental configurations using carbonate-based standardization and multi-year datasets. **Rapid Communications in Mass Spectrometry** 35(17):e9143. DOI: <http://dx.doi.org/10.1002/rcm.9143>
+
+4\. Ulrich, R.N., M. Guillermic, J. Campbell\*, A. Hakim\*, R. Han\*, S. Singh\*, J.D. Stewart, C. Román-Palacios, **H.M. Carroll**, I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. 2021. Patterns of trace element incorporation in carbonate biominerals recapitulate phylogeny for diverse marine organisms. **Frontiers in Earth Science - Geochemistry** 9:641760. DOI: <https://doi.org/10.3389/feart.2021.641760>
+
+3\. Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2020. Trophic dynamics of a reservoir fishery following an introduction of a top predator: Insights from stable carbon and nitrogen isotopes. **Fisheries Management and Ecology**. 27:531--539. DOI: <http://dx.doi.org/10.1111/fme.12445>
+
+2\. **Carroll, H.M.**, A.D. Wanamaker, L.G. Clark, and B.J. Wilsey. 2020. Ragweed and sagebrush pollen can distinguish between vegetation types at broad spatial scales. **Ecosphere** 11(5):e03120 DOI: <https://doi.org/10.1002/ecs2.3120>
+
+1\. **Carroll, H.M.**, D.D. Houston, S. Ankerstjerne, and A.D. Wanamaker, Jr. 2019. Using light stable isotopes to assess stream food web ecology in a general ecology laboratory course. **Journal of Biological Education**. DOI: <https://doi.org/10.1080/00219266.2019.1707263>
+
+# Technical Publications
+
+11\. Román-Palacios, C., **H.M. Carroll**, and A. Tripati. 2023. 'bayclumpr': Bayesian Analysis of Clumped Isotope Datasets. R package version 0.1.0. <https://cran.r-project.org/package=bayclumpr>
+
+10\. **Significant contributor**, Municipal separate storm sewer system 2017 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.
+
+9\. **Significant contributor**, Municipal separate storm sewer system 2016 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.
+
+8\. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2016. A diagnostic--feasibility study for the restoration of Silver Lake, Palo Alto County. Iowa State University Limnology Laboratory and Iowa Department of Natural Resources.
+
+7\. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2015. A diagnostic--feasibility study for the restoration of North and South Twin Lakes. Iowa State University Limnology Laboratory and Iowa Department of Natural Resources.
+
+6\. **Significant contributor**, Municipal separate storm sewer system 2015 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.
+
+5\. **Significant contributor**, Municipal separate storm sewer system 2014 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.
+
+4\. **Significant contributor**, Municipal separate storm sewer system 2013 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.
+
+3\. Norris, J.G., I.E. Fraser, and **H. Julich**. 2012. Underwater Videographic Survey of Submerged Aquatic Vegetation in Sequim Bay, WA, August 2011. Report to Hansi Halls, Environmental Planning Manager, Jamestown S'Klallam Tribe, Sequim, WA.
+
+2\. Norris, J.G., I.E. Fraser, and **H. Julich**. 2011. Defining fish use of subtidal vegetated habitats of the Elwha and comparative shorelines. Report to Cathy Lear, Clallam County Planning Biologist, Port Angeles, Washington.
+
+1\. Schanz, A., **H. Julich**, L. Ferrier, and H. Berry. 2010. Eelgrass Stressor-Response Project: Report 2007---2008. Nearshore Habitat Program. Washington Dept. of Natural Resources, Olympia, WA.
