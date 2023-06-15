@@ -1,0 +1,306 @@
+---
+title: "Hannah M. Carroll, Ph.D."
+subtitle: "Western Colorado University"
+output:
+  html_document:
+    latex_engine: xelatex
+mainfont: LiberationSerif
+fontsize: 10pt
+#header-includes:
+#  - \usepackage{fontspec}
+#  - \setmainfont{Arial}
+
+phone: 515 991 4058
+email: hcarroll@epss.ucla.edu
+urlcolor: blue
+
+---
+
+\vspace{-35pt}
+Email: hcarroll@western.edu | [GitHub](https://github.com/hannahcarroll) | [ORCiD](https://orcid.org/0000-0003-3343-3358) | [Research Gate](https://www.researchgate.net/profile/Hannah-Carroll-7) | [Google Scholar](https://scholar.google.com/citations?user=rzsu0zoAAAAJ&hl=en&authuser=4) | [Twitter](https://twitter.com/hmcarro) | [Website](https://paleoeco.org)  
+
+# Appointments
+
+**Assistant Professor of Environmental Science and Ecology** &nbsp;&nbsp; 2023 - present  
+&nbsp;&nbsp;&nbsp; Clark Family School of Environment and Sustainability; Department of Natural and Environmental Sciences  
+&nbsp;&nbsp;&nbsp; Western Colorado University, Gunnison  
+**IRACDA Postdoctoral Fellow** &nbsp;&nbsp; 2020 - 2023  
+&nbsp;&nbsp;&nbsp; Departments of Earth, Planetary, and Space Sciences; Ecology and Evolutionary Biology; Institute of the Environment and Sustainability, University of California, Los Angeles  
+&nbsp;&nbsp;&nbsp; - Research mentors: Aradhna Tripati and Nathan Kraft   
+**Early Career Fellow, Center for Diverse Leadership in Science** &nbsp;&nbsp; 2020 - present  
+&nbsp;&nbsp;&nbsp; University of California, Los Angeles  
+**Adjunct Professor** &nbsp;&nbsp; 2021 - 2023    
+&nbsp;&nbsp;&nbsp; School of Environment and Sustainability, Department of Natural and Environmental Sciences,  
+&nbsp;&nbsp;&nbsp; Western Colorado University, Gunnison  
+**Lecturer** &nbsp;&nbsp; 2022 - 2023  
+&nbsp;&nbsp;&nbsp; Department of Biological Sciences, California State University of Los Angeles  
+**Postdoctoral Research Associate** &nbsp;&nbsp; 2020  
+&nbsp;&nbsp;&nbsp; Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA  
+&nbsp;&nbsp;&nbsp; - Supervisor: Grace Wilkinson  
+
+# Education  
+
+**Ph.D., Ecology and Evolutionary Biology** &nbsp;&nbsp;&nbsp; 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Co-major: Environmental Science**  
+Iowa State University, Ames  
+Dissertation: "Late Quaternary Paleoecology of the North American Midcontinent"  
+- Advisors: Lynn Clark and Alan Wanamaker  
+
+**B.S. Environmental Science** &nbsp;&nbsp;&nbsp; 2008  
+University of Washington, Tacoma  
+
+# Awards and Honors
+
+**Research Excellence Award**, Iowa State University. For academically superior dissertation research. 2020  
+**Senior Assistantship**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. Competitive research assistantship providing one semester of stipend, tuition, and benefits. 2019  
+**Professional and Scientific Team CYtation Award**, Iowa State University. Presented to the members of the ISU Stormwater Management Committee. For going above and beyond the call of duty to make a significant impact on the institution. 2017  
+**Teaching Excellence Award**, Iowa State University. For outstanding teaching by a graduate student. 2016  
+**Participant, \{GeoChronR} Workshop**, Competitive--entry 3--day workshop in time--uncertain data analysis using the GeoChron package for R. NSF-funded; travel, room and board, and workshop entry expenses paid. 2016   
+
+# Peer-Reviewed Publications  
+\vspace{-10pt}
+^†^Indicates co-first authorship | \*Indicates undergraduate co-author  
+
+8\. Román-Palacios, C.^†^, **H.M. Carroll^†^**, A.J. Arnold, R.J. Flores, Q. Gan, S.V. Petersen, K.A. McKinnon, J. Emile-Geay, D. Khider, A. Tripati. BayClump: Bayesian Calibration and Temperature Reconstructions for Clumped Isotope Thermometry. Under revision at **Geochemistry, Geophysics, Geosystems**. Preprint available at: https://www.essoar.org/doi/abs/10.1002/essoar.10507995.2   
+<br>  
+7\. Lucarelli, J.K, **H.M. Carroll**, R.N. Ulrich, B. Elliott, T.B. Coplen, R. Eagle, and A. Tripati. 2023. Equilibrated gas and carbonate standard-derived dual ($Δ_{47}$ and $Δ_{48}$) clumped isotope values. **Geochemistry, Geophysics, Geosystems** 24(2):e2022GC010458. DOI: https://doi.org/10.1029/2022GC010458    
+<br>  
+6\. Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander. 2022. A Phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. **Molecular Phylogenetics and Evolution** 166:107320. DOI: https://doi.org/10.1016/j.ympev.2021.107320  
+<br>  
+5\. Upadhyay, D., J. Lucarelli, A. Arnold, R. Flores, H. Bricker, R.N. Ulrich, G. Jesmok, L. Santi, W. Defliese, R. Eagle, **H.M. Carroll**, J. Bateman, V. Petryshyn, S. Loyd, J. Tang, A. Priyadarshi, B. Elliott, and A. Tripati. 2021. Carbonate clumped isotope analysis $(Δ_{47})$ of 21 carbonate standards determined via gas source isotope ratio mass spectrometry on four instrumental configurations using carbonate-based standardization and multi-year datasets. **Rapid Communications in Mass Spectrometry** 35(17):e9143. DOI: http://dx.doi.org/10.1002/rcm.9143  
+<br>  
+4\. Ulrich, R.N., M. Guillermic, J. Campbell\*, A. Hakim\*, R. Han\*, S. Singh\*, J.D. Stewart, C. Román-Palacios, **H.M. Carroll**, I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. 2021. Patterns of trace element incorporation in carbonate biominerals recapitulate phylogeny for diverse marine organisms. **Frontiers in Earth Science - Geochemistry** 9:641760. DOI: https://doi.org/10.3389/feart.2021.641760  
+<br>  
+3\. Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2020. Trophic dynamics of a reservoir fishery following an introduction of a top predator: Insights from stable carbon and nitrogen isotopes. **Fisheries Management and Ecology**. 27:531–539. DOI: http://dx.doi.org/10.1111/fme.12445  
+<br>  
+2\. **Carroll, H.M.**, A.D. Wanamaker, L.G. Clark, and B.J. Wilsey. 2020. Ragweed and sagebrush pollen can distinguish between vegetation types at broad spatial scales. **Ecosphere** 11(5):e03120 DOI: https://doi.org/10.1002/ecs2.3120  
+<br>  
+1\. **Carroll, H.M.**, D.D. Houston, S. Ankerstjerne, and A.D. Wanamaker, Jr. 2019. Using light stable isotopes to assess stream food web ecology in a general ecology laboratory course. **Journal of Biological Education**. DOI: https://doi.org/10.1080/00219266.2019.1707263  
+
+# Technical Publications
+
+11\. Román-Palacios, C., **H.M. Carroll**, and A. Tripati. 2023. 'bayclumpr': Bayesian Analysis of Clumped Isotope Datasets. R package version 0.1.0. https://cran.r-project.org/package=bayclumpr  
+<br>  
+10\. **Significant contributor**, Municipal separate storm sewer system 2017 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.  
+<br>  
+9\. **Significant contributor**, Municipal separate storm sewer system 2016 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.  
+<br>  
+8\. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2016. A diagnostic--feasibility study for the restoration of Silver Lake, Palo Alto County. Iowa State University Limnology Laboratory and Iowa Department of Natural Resources.  
+<br>  
+7\. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2015. A diagnostic--feasibility study for the restoration of North and South Twin Lakes. Iowa State University Limnology Laboratory and Iowa Department of Natural Resources.  
+<br>  
+6\. **Significant contributor**, Municipal separate storm sewer system 2015 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.  
+<br>  
+5\. **Significant contributor**, Municipal separate storm sewer system 2014 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.  
+<br>  
+4\. **Significant contributor**, Municipal separate storm sewer system 2013 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.  
+<br>  
+3\. Norris, J.G., I.E. Fraser, and **H. Julich**. 2012. Underwater Videographic Survey of Submerged Aquatic Vegetation in Sequim Bay, WA, August 2011. Report to Hansi Halls, Environmental Planning Manager, Jamestown S'Klallam Tribe, Sequim, WA.  
+<br>  
+2\. Norris, J.G., I.E. Fraser, and **H. Julich**. 2011. Defining fish use of subtidal vegetated habitats of the Elwha and comparative shorelines. Report to Cathy Lear, Clallam County Planning Biologist, Port Angeles, Washington.  
+<br>  
+1\. Schanz, A., **H. Julich**, L. Ferrier, and H. Berry. 2010. Eelgrass Stressor-Response Project: Report 2007---2008. Nearshore Habitat Program. Washington Dept. of Natural Resources, Olympia, WA.  
+
+# Teaching
+
+## Mentored Teaching Practicum  
+\vspace{-10pt}
+### IRACDA Program at UCLA, in Collaboration with California State University of Los Angeles  
+\vspace{-10pt}
+&nbsp;&nbsp;&nbsp; Biol 4620: Plant Ecology [Mentored by Alexandra (Sasha) Wright] (2 semesters) &nbsp;&nbsp;&nbsp; 2021---2022  
+
+\vspace{-10pt}
+## Courses Taught as Instructor of Record  
+\vspace{-10pt}
+>*Indicates redevelopment or co-redevelopment of existing course*  
+>**Indicates development of new course**  
+
+\vspace{-25pt}
+### California State University of Los Angeles  
+\vspace{-10pt}
+&nbsp;&nbsp;&nbsp; Biol 4540: Special Topics, biological sciences journal club (co-instructor) (3 semesters) 2021---2023  
+&nbsp;&nbsp;&nbsp; Biol 3000: Biostatistics Laboratory (online) (2 semesters) 2022  
+&nbsp;&nbsp;&nbsp; Biol 3000: Biostatistics Lecture (online) (1 semester) 2022  
+
+\vspace{-15pt}
+### Iowa State University, Ames  
+\vspace{-10pt}
+&nbsp;&nbsp;&nbsp; EnSci 490: Independent Study (6 semesters) 2014---2018  
+&nbsp;&nbsp;&nbsp; **EnSci 203: Exploration of Environmental Science** (5 semesters) 2014---2018  
+&nbsp;&nbsp;&nbsp; *EnSci 202: Exploration of Environmental Issues* (5 semesters) 2013---2017  
+&nbsp;&nbsp;&nbsp; **EnSci 204X: Applied Exploration of Environmental Science I** (3 semesters) 2015---2017  
+&nbsp;&nbsp;&nbsp; **EnSci 205X: Applied Exploration of Environmental Science II** (2 semesters) 2016---2017  
+&nbsp;&nbsp;&nbsp; Biol 486xw: Aquatic Ecology Online (1 semester) 2016  
+&nbsp;&nbsp;&nbsp; *Biol 486L: Aquatic Ecology Laboratory*, field & laboratory components (1 semester) 2013  
+
+## Courses Taught as a Teaching Assistant
+\vspace{-5pt}
+### Iowa State University, Ames
+\vspace{-10pt}
+&nbsp;&nbsp;&nbsp; Biol 312L: General Ecology Laboratory, field and laboratory components (3 semesters) 2018---2019  
+&nbsp;&nbsp;&nbsp; Biol 212L: Principles of Biology Laboratory II (1 semester) 2019  
+&nbsp;&nbsp;&nbsp; Biol 394: Study Abroad: Maya Mountains & Calabash Caye, international field course (1 semester in classroom, 2 weeks abroad) 2015  
+&nbsp;&nbsp;&nbsp; Biol 486xw: Aquatic Ecology Online (3 semesters) 2013---2015  
+
+# Grants  
+
+**Professional Development Grant**, Iowa State University Environmental Science Program. 2019. Awarded for travel to the American Geophysical Union annual meeting. $200   
+**Harry and Audrey Finch Scholarship (Finch Funds Award)**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. 2019. *A high-resolution, multiproxy record of climate, vegetation, and fire history at the southern limit of the temperate tallgrass prairie, USA* Awarded for travel to the American Geophysical Union annual meeting. $1,000  
+**Professional Advancement Grant**, Iowa State University Graduate and Professional Student Senate. 2019. Awarded for travel to the Botanical Society of America Annual Meeting. $200  
+**Professional Advancement Grant Funds Matching**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. 2019. Awarded for travel to the Botanical Society of America Annual Meeting. $100  
+**Graduate Student Research Grant**, Geological Society of America. 2019. *Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone.* $2,500  
+**Graduate Student Research Grant**, Geological Society of America. 2018. *Late Quaternary Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone.* $2,500  
+**Harry and Audrey Finch Scholarship (Finch Funds Award)**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. 2016. *Paleoecological Investigation of the Tallgrass Prairie-Ozark Forest Ecotone.* $1,500  
+**Lois Tiffany Scholarship Award**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. 2016. *Holocene Paleoecology of the Midwestern United States.* $750  
+**Harry and Audrey Finch Scholarship (Finch Funds Award)**, Iowa State University Department of Ecology, Evolution, and Organismal Biology. 2015. *Paleoecology of the bamboo thickets of eastern Bolivia.* $2,000  
+**Curriculum Development Grant**, Iowa State University College of Liberal Arts and Sciences. 2014. Awarded to redevelop Biol 488 - *Identification of Aquatic Organisms Online Course.* $1,000  
+**Student Travel Award**, Association for the Sciences of Limnology and Oceanography (ASLO). 2014. Awarded for travel to the ASLO Annual Meeting. $500  
+
+# Service (Past Three Years)
+
+Member - Master's of Science in Ecology Council, Western Colorado University &nbsp;&nbsp;&nbsp; 2022 - present  
+Facilitator - Cultivating Leadership for Change and Justice in the Geosciences &nbsp;&nbsp;&nbsp; 2021  
+&nbsp;&nbsp; Workshop 4: Progress and lessons learned after one year of anti-racism efforts in the geosciences.    
+Facilitator - Cultivating Leadership for Change and Justice in the Geosciences &nbsp;&nbsp;&nbsp; 2021  
+&nbsp;&nbsp; Workshop 3: Effective strategies for student organizing. American Meteorological Society Annual Meeting  
+Facilitator - Cultivating Leadership for Change and Justice in the Geosciences &nbsp;&nbsp;&nbsp; 2020  
+&nbsp;&nbsp; Workshop 2: Exploring challenges to diversifying faculty. American Geophysical Union Annual Meeting  
+Panelist - Biol 606: Ecological Research Methods, Career panel for MS Ecology &nbsp;&nbsp;&nbsp; 2020  
+&nbsp;&nbsp; Students about lesser-known subdisciplines of ecology, Western Colorado University  
+Assistant Facilitator - Cultivating Leadership for Change and Justice in the Geosciences &nbsp;&nbsp;&nbsp; 2020  
+&nbsp;&nbsp; Workshop 1: Call to action: Anti-racism efforts in the geosciences. Geological Society of America Annual Meeting  
+Volunteer - Letters to a Pre-Scientist penpal program &nbsp;&nbsp;&nbsp; 2019  
+
+# Workshops  
+
+**Carroll, H.** and C. Román-Palacios. *R stats bootcamp: Part 2.* Hands-on R statistics and coding workshop. Tripati lab, Department of Earth, Planetary, and Space Sciences, University of California Los Angeles. 2021.  
+**Carroll, H.** *Publication quality plotting in R.* Hands-on R coding workshop for the Statistics Tutoring Center’s Statistics Bootcamp series. Western Colorado University, Gunnison. 2021. Recording: https://youtu.be/9cGO9fjtbvg  
+**Carroll, H.** and C. Román-Palacios. *R stats bootcamp: Part 1.* R statistics demonstration. Tripati lab, Department of Earth, Planetary, and Space Sciences, University of California Los Angeles. 2021.  
+**Carroll, H.** *You've got data! Now what?: How to pick the right tests for your dataset (and why you should choose your tests first next time).* R workshop in statistics for graduate students. Western Colorado University, Gunnison. 2020. Recording: https://www.youtube.com/watch?v=-lKle5byG2Y&feature=youtu.be  
+
+# Invited Talks and Guest Lectures
+
+**Carroll, H.** *Making sense of warnings, errors, and messages in R.* Virtual guest lecture for Ecological Research  
+Methods (Biology 606). 2022. Master's level course. Western Colorado University, Gunnison, CO.  
+**Carroll, H.** *Introduction to Paleobotany and Paleoecology*. Virtual guest lecture for Environmental Botany (Biology 303). 2022. Stonehill College, Easton, MA.   
+**Carroll, H.** *Computational data science for paleoecology and paleoclimatology.* Invited seminar for University of Southern California, Los Angeles. 2022.   
+**Carroll, H.** *Computational data science approaches to paleoecology and paleoclimatology.* Invited seminar for the Geobiology graduate student organization at California Institute of Technology, Pasadena. 2021.  
+**Carroll, H.** *Stable isotopes analysis.* Guest lecture with lab for general ecology course (Biology 302) in stable isotopes analysis using R. 2021. Western Colorado University, Gunnison.  
+**Carroll, H.** *Stable isotopes analysis.* Guest lecture with lab for general ecology course (Biology 302) in stable isotopes analysis using R. 2020. Western Colorado University, Gunnison.  
+**Carroll, H.** *Spatial data wrangling in R.* Demonstration for LunchinatoRS: an R-focused lunch seminar. 2019. Iowa State University, Ames  
+**Carroll, H.** *New Solutions for Old Problems: The Power of Big Data in Late Quaternary Paleoecology.* Departmental seminar. 2018. University of Washington, Tacoma.  
+**Carroll, H.** *Stream Health and Ecology.* Guest lecture with field component. Biology 211 - Introductory Biology for Nonmajors. 2018. Iowa State University, Ames.  
+**Carroll, H.** *Water Quality on the Iowa State University Campus.* National Pollutant Discharge Elimination System Stakeholders Meeting. 2016. Iowa State University, Ames.  
+**Carroll, H.** *Lake Eutrophication and Land Use.* Departmental seminar. 2015. University of Wisconsin - Stout, Menomonie.
+
+# Presentations and Posters
+\vspace{-10pt}
+^†^Denotes presenter, if other than self | \*Indicates undergraduate co-author  
+
+Samuelson, R.A.^†^, D.D. Houston, R. Japuntich, D. Cammack, and **H.M. Carroll**. 2021. Three-species on the move:  
+&nbsp;&nbsp; *Tracking movement patterns to inform conservation of three native fishes in the Dolores River Basin.* Desert Fishes  
+&nbsp;&nbsp; Council Annual Meeting. Virtual Conference.  
+Ulrich, R.N.^†^, M. Guillermic, J. Campbell\*, A. Hakim\*, R. Han\*, S. Singh\*, J.D. Stewart, C. Román-Palacios,  
+&nbsp;&nbsp; **H.M. Carroll**, I. DeCorte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. 2021. *Interspecific*  
+&nbsp;&nbsp; *element incorporation in biogenic carbonates recapitulates phylogeny for diverse marine species.*  
+&nbsp;&nbsp; Presentation given at Goldschmidt 2021 virtual meeting.  
+J.K. Lucarelli^†^, **H.M. Carroll**, B. Purgstaller, M. Dietzel, R.A. Eagle, and A. Tripati. 2021. *Paired $(Δ_{47})$ and $(Δ_{48})$*  
+&nbsp;&nbsp; *carbonate clumped isotope data: Standard values, multi-instrument comparisons, mixing effects, and disequilibrium*  
+&nbsp;&nbsp; *effects.* Presentation given at Goldschmidt 2021 virtual meeting.  
+Samuelson, R.^†^, D. Cammack, **H.M. Carroll**, D.D. Houston, R. Japuntich, and K. Thompson. 2021. *Passive*  
+&nbsp;&nbsp; *monitoring of the native ‘three-species’ in the Dolores River Basin and land management implications.*  
+&nbsp;&nbsp; Presentation given at the CO/WY American Fisheries Society virtual conference.  
+**Carroll, H.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, and J. Galang\*. 2019. *A high-resolution, multiproxy record*  
+&nbsp;&nbsp; *of climate, vegetation, and fire history at the southern limit of the temperate tallgrass prairie, USA.*  
+&nbsp;&nbsp; American Geophysical Union Meeting, San Francisco, CA  
+**Carroll, H.**, A.D. Wanamaker, L.G. Clark, B.J. Wilsey. 2019. Ambrosia *and* Artemisia *pollen can distinguish between*  
+&nbsp;&nbsp; *vegetation types at broad spatial scales.* Botanical Society of America Annual Meeting, Tucson, AZ  
+**Carroll, H.**, L.G. Clark, B.E. Caissie, and A.D. Wanamaker. 2019. *Late Quaternary vegetation dynamics at the*  
+&nbsp;&nbsp; *southern limit of the temperate tallgrass prairie.* Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2018. *Preparation of a phytolith reference collection for the study of*  
+&nbsp;&nbsp; *late Quaternary paleoecology in Missouri.* Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.**, 2018. *Late Quaternary paleoecology of the North American midcontinent.* Iowa State University   
+&nbsp;&nbsp; Dept of Ecology, Evolution, and Organismal Biology Three Minute Thesis Competition  
+**Carroll, H.**, L.G. Clark, and A.D. Wanamaker. 2017. *Tracking Holocene vegetation change in the tallgrass prairie*  
+&nbsp;&nbsp; *region: the power of big data in paleoecology.* Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.**, C.T. Filstrup, and J.A. Downing. 2016. *Comparative palynology of two agriculturally eutrophic lakes*  
+&nbsp;&nbsp; Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.** and J.A. Downing. 2015. *Water quality declines and diversity loss in an agriculturally eutrophic landscape*  
+&nbsp;&nbsp; Environmental Science Graduate Student Symposium, Ames, IA  
+**Carroll, H.** and J.A. Downing. 2015. *Paleolimnological analysis of Iowa's changing landscapes* Graduate Research  
+&nbsp;&nbsp; in Evolutionary Biology and Ecology symposium, Ames, IA  
+**Julich, H.** and J.A. Downing. 2014. *Two hundred years of landscape change: Consequences for East Okoboji Lake,*  
+&nbsp;&nbsp; *Iowa* Assoc. for the Sciences of Limnology and Oceanography Meeting, Portland, OR  
+**Julich, H.** and J.A. Downing. 2014. *Use of palynological techniques to reconstruct macrophyte loss and multiple*  
+&nbsp;&nbsp; *stable states in a eutrophic lake.* Graduate Research in Evolutionary Biology and Ecology symposium, Ames, IA  
+**Julich, H.** and J.A. Downing. 2013. *Use of palynological techniques to reconstruct macrophyte loss and multiple*  
+&nbsp;&nbsp; *stable states in a eutrophic lake.* Assoc. for the Sciences of Limnology and Oceanography, New Orleans, LA  
+**Julich, H.** and B.J. Becker. 2008. *An evaluation of conditions in* in situ *mesocosms* Western Society of Naturalists  
+&nbsp;&nbsp; Meeting, Vancouver, BC, Canada  
+**Julich, H.** and B.J. Becker. 2008. In situ *culturing of larval sand dollars, *Dendraster excentricus*, in Friday Harbor,*  
+&nbsp;&nbsp; *Washington.* University of Washington Tacoma Environmental Research Symposium, Tacoma, WA  
+**Julich, H.** and B.J. Becker. 2008. In situ *culturing of larval sand dollars, *Dendraster excentricus*, in Friday Harbor,*  
+&nbsp;&nbsp; *Washington.* UW Undergraduate Research Symposium, Seattle, WA  
+**Julich, H.** and B.J. Becker. 2007. *In situ culturing of larval sand dollars, *Dendraster excentricus*, in Friday Harbor,*  
+&nbsp;&nbsp; *Washington.* Western Society of Naturalists Meeting, Ventura, CA  
+
+# Mentorship
+\vspace{-5pt}
+[35 total; includes 21 women and 12 students from other historically minoritized demographics in STEM;  
+undergraduate students except where noted]  
+^+^Indicates undergraduate mentee who subsequently completed a Master's  
+*Italics* indicate Master's or PhD mentee who has successfully defended  
+^c^Indicates Master's advisory committee membership | ^a^Indicates Master's advisory committee chair  
+  
+\vspace{-10pt}
+### University of California, Los Angeles  
+\vspace{-10pt}
+Deepshikha Upadhyay (PhD), *Jamie Lucarelli  (PhD)*, Robert Ulrich (PhD), Jade Knighton (PhD), Hannah Tandy (PhD), Randy Flores (PhD)  
+
+\vspace{-10pt}
+### California State University of Los Angeles  
+\vspace{-10pt}
+Stephanie Varghese, Antonio Dominguez  
+
+\vspace{-10pt}
+### Western Colorado University, Gunnison
+\vspace{-10pt}
+*Reece Samuelson (MS)*, *Ellie Orr (MS)*, *Bronwyn Taylor (MS)*^c^, Jake Bartholomew (MS)^c^, *Ashley Hurst (MS)*^c^, Laurel Trout (MS)^a^  
+
+\vspace{-10pt}
+### Iowa State University, Ames  
+\vspace{-10pt}
+Jacqueline Galang, Alejand Hernandez-Delgado, Juan-Carlos Mungaray, Juan Perez, Kathryn Holmes,  
+Logan Crees^+^, Lindsay Mack, Josiah Ihnen, Marlyssa Crow^+^, Nicole Stout, Shelby Poole, Samuel Freestone, Emily Martin (Honors)^+^, Eric Tagatz, Megan Koppenhafer, Connor Nicholas, Molly Zelinskas, Molli Wienhold, Mariah Mahaney, Sarah Leichty (Honors)^+^, William Tony Manriquez   
+
+# Selected Trainings and Certifications  
+\vspace{-10pt}  
+>\*CIRTL: Center for the Integration of Research, Teaching and Learning, https://www.cirtl.net/  
+
+\vspace{-10pt}  
+
+CIRTL Certification: **Associate Level Certification in University Teaching**. 2021.  
+CIRTL Training: **Decolonizing the Curriculum in STEAM**. 2021.  
+CIRTL Training: **Trauma-Responsive Teaching**. 2021.  
+CIRTL Training: **Becoming an Anti-Racist Educator**. 2021.  
+IRACDA<!-- breaklink -->@UCLA Training: **Interrupting Bias in the Classroom**. 2021.  
+**Mental Health First Aid Certification**. 2021.  
+**Entering Mentoring Training**. 2021.  
+UCLA Center for Education Innovation & Learning in the Sciences (CEILS) Online Summer Scientific Teaching Institute: **Foundations of Equitable Course Design & Inclusive Teaching**. 2021.  
+
+# Interviews in the Popular or University Press
+Taylor, B., **H.M. Carroll**, and R. Bingham. *In press*. The Reproductive Ecology of *Astragalus microcymbus*. Aquilegia Magazine. Colorado Native Plant Society.  
+
+Iowa State University Department of Ecology, Evolution, and Organismal Biology. Departmental Spotlight. "Introducing environmental science to a growing number of undergraduates." September 2017  
+
+Visions Magazine (Iowa State University Alumni Association). "Three Billion Years: The Evolution of a State." November 2016  
+
+Environmental Monitor. ["Future scientists get real-world skills in Iowa State water quality monitoring courses."](http://www.fondriest.com/news/future-scientists-get-real-world-skills-iowa-state-water-quality-monitoring-courses.htm) March 5, 2014  
+
+Iowa State Daily. ["ISU students to monitor campus impact on water."](http://www.iowastatedaily.com/news/article_01050a06-9fe2-11e3-9d48-001a4bcf887a.html) February 28, 2014  
+
+Ames Tribune. ["ISU students study campus impact on waterways."](http://www.amestrib.com/news/ames-and-story-county/isu-students-study-campus-impact-waterways) February 25, 2014  
+
+Iowa State University News Service. ["Iowa State students will check water quality on campus this semester."](http://www.news.iastate.edu/news/2014/02/19/watertesting2014) February 19, 2014  
+
+Iowa State Daily. "Carolyn Hoskinson makes first appearance in Iowa, speaks out about underground leakage." November 19, 2013   

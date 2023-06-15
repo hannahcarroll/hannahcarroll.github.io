@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Hannah M. Carroll, Ph.D.</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Western Paleoecology Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="people.html">People</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="news.html">Lab news</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Hannah M. Carroll, Ph.D.</h1>
+<h3 class="subtitle">Western Colorado University</h3>
+
+</div>
+
+
+<p>Email: <a href="mailto:hcarroll@western.edu"
+class="email">hcarroll@western.edu</a> | <a
+href="https://github.com/hannahcarroll">GitHub</a> | <a
+href="https://orcid.org/0000-0003-3343-3358">ORCiD</a> | <a
+href="https://www.researchgate.net/profile/Hannah-Carroll-7">Research
+Gate</a> | <a
+href="https://scholar.google.com/citations?user=rzsu0zoAAAAJ&amp;hl=en&amp;authuser=4">Google
+Scholar</a> | <a href="https://twitter.com/hmcarro">Twitter</a> | <a
+href="https://paleoeco.org">Website</a></p>
+<div id="appointments" class="section level1">
+<h1>Appointments</h1>
+<p><strong>Assistant Professor of Environmental Science and
+Ecology</strong>    2023 - present<br />
+    Clark Family School of Environment and Sustainability; Department of
+Natural and Environmental Sciences<br />
+    Western Colorado University, Gunnison<br />
+<strong>IRACDA Postdoctoral Fellow</strong>    2020 - 2023<br />
+    Departments of Earth, Planetary, and Space Sciences; Ecology and
+Evolutionary Biology; Institute of the Environment and Sustainability,
+University of California, Los Angeles<br />
+    - Research mentors: Aradhna Tripati and Nathan Kraft<br />
+<strong>Early Career Fellow, Center for Diverse Leadership in
+Science</strong>    2020 - present<br />
+    University of California, Los Angeles<br />
+<strong>Adjunct Professor</strong>    2021 - 2023<br />
+    School of Environment and Sustainability, Department of Natural and
+Environmental Sciences,<br />
+    Western Colorado University, Gunnison<br />
+<strong>Lecturer</strong>    2022 - 2023<br />
+    Department of Biological Sciences, California State University of
+Los Angeles<br />
+<strong>Postdoctoral Research Associate</strong>    2020<br />
+    Department of Ecology, Evolution, and Organismal Biology, Iowa State
+University, Ames, IA<br />
+    - Supervisor: Grace Wilkinson</p>
+</div>
+<div id="education" class="section level1">
+<h1>Education</h1>
+<p><strong>Ph.D., Ecology and Evolutionary Biology</strong>    
+2020<br />
+         <strong>Co-major: Environmental Science</strong><br />
+Iowa State University, Ames<br />
+Dissertation: “Late Quaternary Paleoecology of the North American
+Midcontinent”<br />
+- Advisors: Lynn Clark and Alan Wanamaker</p>
+<p><strong>B.S. Environmental Science</strong>     2008<br />
+University of Washington, Tacoma</p>
+</div>
+<div id="awards-and-honors" class="section level1">
+<h1>Awards and Honors</h1>
+<p><strong>Research Excellence Award</strong>, Iowa State University.
+For academically superior dissertation research. 2020<br />
+<strong>Senior Assistantship</strong>, Iowa State University Department
+of Ecology, Evolution, and Organismal Biology. Competitive research
+assistantship providing one semester of stipend, tuition, and benefits.
+2019<br />
+<strong>Professional and Scientific Team CYtation Award</strong>, Iowa
+State University. Presented to the members of the ISU Stormwater
+Management Committee. For going above and beyond the call of duty to
+make a significant impact on the institution. 2017<br />
+<strong>Teaching Excellence Award</strong>, Iowa State University. For
+outstanding teaching by a graduate student. 2016<br />
+<strong>Participant, {GeoChronR} Workshop</strong>, Competitive–entry
+3–day workshop in time–uncertain data analysis using the GeoChron
+package for R. NSF-funded; travel, room and board, and workshop entry
+expenses paid. 2016</p>
+</div>
+<div id="peer-reviewed-publications" class="section level1">
+<h1>Peer-Reviewed Publications</h1>
+<p><sup>†</sup>Indicates co-first authorship | *Indicates undergraduate
+co-author</p>
+<p>8. Román-Palacios, C.<sup>†</sup>, <strong>H.M.
+Carroll<sup>†</sup></strong>, A.J. Arnold, R.J. Flores, Q. Gan, S.V.
+Petersen, K.A. McKinnon, J. Emile-Geay, D. Khider, A. Tripati. BayClump:
+Bayesian Calibration and Temperature Reconstructions for Clumped Isotope
+Thermometry. Under revision at <strong>Geochemistry, Geophysics,
+Geosystems</strong>. Preprint available at: <a
+href="https://www.essoar.org/doi/abs/10.1002/essoar.10507995.2"
+class="uri">https://www.essoar.org/doi/abs/10.1002/essoar.10507995.2</a><br />
+<br><br />
+7. Lucarelli, J.K, <strong>H.M. Carroll</strong>, R.N. Ulrich, B.
+Elliott, T.B. Coplen, R. Eagle, and A. Tripati. 2023. Equilibrated gas
+and carbonate standard-derived dual (<span
+class="math inline">\(Δ_{47}\)</span> and <span
+class="math inline">\(Δ_{48}\)</span>) clumped isotope values.
+<strong>Geochemistry, Geophysics, Geosystems</strong>
+24(2):e2022GC010458. DOI: <a href="https://doi.org/10.1029/2022GC010458"
+class="uri">https://doi.org/10.1029/2022GC010458</a><br />
+<br><br />
+6. Houston, D.D., J.D. Satler, T.K. Stack*, <strong>H.M.
+Carroll</strong>, A.M. Bevan*, A.L. Moya*, and K.D. Alexander. 2022. A
+Phylogenomic perspective on the evolutionary history of the stonefly
+genus <em>Suwallia</em> (Plecoptera: Chloroperlidae) revealed by
+ultraconserved genomic elements. <strong>Molecular Phylogenetics and
+Evolution</strong> 166:107320. DOI: <a
+href="https://doi.org/10.1016/j.ympev.2021.107320"
+class="uri">https://doi.org/10.1016/j.ympev.2021.107320</a><br />
+<br><br />
+5. Upadhyay, D., J. Lucarelli, A. Arnold, R. Flores, H. Bricker, R.N.
+Ulrich, G. Jesmok, L. Santi, W. Defliese, R. Eagle, <strong>H.M.
+Carroll</strong>, J. Bateman, V. Petryshyn, S. Loyd, J. Tang, A.
+Priyadarshi, B. Elliott, and A. Tripati. 2021. Carbonate clumped isotope
+analysis <span class="math inline">\((Δ_{47})\)</span> of 21 carbonate
+standards determined via gas source isotope ratio mass spectrometry on
+four instrumental configurations using carbonate-based standardization
+and multi-year datasets. <strong>Rapid Communications in Mass
+Spectrometry</strong> 35(17):e9143. DOI: <a
+href="http://dx.doi.org/10.1002/rcm.9143"
+class="uri">http://dx.doi.org/10.1002/rcm.9143</a><br />
+<br><br />
+4. Ulrich, R.N., M. Guillermic, J. Campbell*, A. Hakim*, R. Han*, S.
+Singh*, J.D. Stewart, C. Román-Palacios, <strong>H.M. Carroll</strong>,
+I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A.
+Eagle. 2021. Patterns of trace element incorporation in carbonate
+biominerals recapitulate phylogeny for diverse marine organisms.
+<strong>Frontiers in Earth Science - Geochemistry</strong> 9:641760.
+DOI: <a href="https://doi.org/10.3389/feart.2021.641760"
+class="uri">https://doi.org/10.3389/feart.2021.641760</a><br />
+<br><br />
+3. Wamboldt, J.J., A.D. Wanamaker, <strong>H.M. Carroll</strong>, R.
+Schultz, and J.E. Morris. 2020. Trophic dynamics of a reservoir fishery
+following an introduction of a top predator: Insights from stable carbon
+and nitrogen isotopes. <strong>Fisheries Management and
+Ecology</strong>. 27:531–539. DOI: <a
+href="http://dx.doi.org/10.1111/fme.12445"
+class="uri">http://dx.doi.org/10.1111/fme.12445</a><br />
+<br><br />
+2. <strong>Carroll, H.M.</strong>, A.D. Wanamaker, L.G. Clark, and B.J.
+Wilsey. 2020. Ragweed and sagebrush pollen can distinguish between
+vegetation types at broad spatial scales. <strong>Ecosphere</strong>
+11(5):e03120 DOI: <a href="https://doi.org/10.1002/ecs2.3120"
+class="uri">https://doi.org/10.1002/ecs2.3120</a><br />
+<br><br />
+1. <strong>Carroll, H.M.</strong>, D.D. Houston, S. Ankerstjerne, and
+A.D. Wanamaker, Jr. 2019. Using light stable isotopes to assess stream
+food web ecology in a general ecology laboratory course. <strong>Journal
+of Biological Education</strong>. DOI: <a
+href="https://doi.org/10.1080/00219266.2019.1707263"
+class="uri">https://doi.org/10.1080/00219266.2019.1707263</a></p>
+</div>
+<div id="technical-publications" class="section level1">
+<h1>Technical Publications</h1>
+<p>11. Román-Palacios, C., <strong>H.M. Carroll</strong>, and A.
+Tripati. 2023. ‘bayclumpr’: Bayesian Analysis of Clumped Isotope
+Datasets. R package version 0.1.0. <a
+href="https://cran.r-project.org/package=bayclumpr"
+class="uri">https://cran.r-project.org/package=bayclumpr</a><br />
+<br><br />
+10. <strong>Significant contributor</strong>, Municipal separate storm
+sewer system 2017 annual report. Department of Environmental Health and
+Safety and Facilities Planning and Management. Iowa State
+University.<br />
+<br><br />
+9. <strong>Significant contributor</strong>, Municipal separate storm
+sewer system 2016 annual report. Department of Environmental Health and
+Safety and Facilities Planning and Management. Iowa State
+University.<br />
+<br><br />
+8. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and
+<strong>H. Carroll</strong>. 2016. A diagnostic–feasibility study for
+the restoration of Silver Lake, Palo Alto County. Iowa State University
+Limnology Laboratory and Iowa Department of Natural Resources.<br />
+<br><br />
+7. Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and
+<strong>H. Carroll</strong>. 2015. A diagnostic–feasibility study for
+the restoration of North and South Twin Lakes. Iowa State University
+Limnology Laboratory and Iowa Department of Natural Resources.<br />
+<br><br />
+6. <strong>Significant contributor</strong>, Municipal separate storm
+sewer system 2015 annual report. Department of Environmental Health and
+Safety and Facilities Planning and Management. Iowa State
+University.<br />
+<br><br />
+5. <strong>Significant contributor</strong>, Municipal separate storm
+sewer system 2014 annual report. Department of Environmental Health and
+Safety and Facilities Planning and Management. Iowa State
+University.<br />
+<br><br />
+4. <strong>Significant contributor</strong>, Municipal separate storm
+sewer system 2013 annual report. Department of Environmental Health and
+Safety and Facilities Planning and Management. Iowa State
+University.<br />
+<br><br />
+3. Norris, J.G., I.E. Fraser, and <strong>H. Julich</strong>. 2012.
+Underwater Videographic Survey of Submerged Aquatic Vegetation in Sequim
+Bay, WA, August 2011. Report to Hansi Halls, Environmental Planning
+Manager, Jamestown S’Klallam Tribe, Sequim, WA.<br />
+<br><br />
+2. Norris, J.G., I.E. Fraser, and <strong>H. Julich</strong>. 2011.
+Defining fish use of subtidal vegetated habitats of the Elwha and
+comparative shorelines. Report to Cathy Lear, Clallam County Planning
+Biologist, Port Angeles, Washington.<br />
+<br><br />
+1. Schanz, A., <strong>H. Julich</strong>, L. Ferrier, and H. Berry.
+2010. Eelgrass Stressor-Response Project: Report 2007—2008. Nearshore
+Habitat Program. Washington Dept. of Natural Resources, Olympia, WA.</p>
+</div>
+<div id="teaching" class="section level1">
+<h1>Teaching</h1>
+<div id="mentored-teaching-practicum" class="section level2">
+<h2>Mentored Teaching Practicum</h2>
+<div
+id="iracda-program-at-ucla-in-collaboration-with-california-state-university-of-los-angeles"
+class="section level3">
+<h3>IRACDA Program at UCLA, in Collaboration with California State
+University of Los Angeles</h3>
+<p>    Biol 4620: Plant Ecology [Mentored by Alexandra (Sasha) Wright]
+(2 semesters)     2021—2022</p>
+</div>
+</div>
+<div id="courses-taught-as-instructor-of-record" class="section level2">
+<h2>Courses Taught as Instructor of Record</h2>
+<blockquote>
+<p><em>Indicates redevelopment or co-redevelopment of existing
+course</em><br />
+<strong>Indicates development of new course</strong></p>
+</blockquote>
+<div id="california-state-university-of-los-angeles"
+class="section level3">
+<h3>California State University of Los Angeles</h3>
+<p>    Biol 4540: Special Topics, biological sciences journal club
+(co-instructor) (3 semesters) 2021—2023<br />
+    Biol 3000: Biostatistics Laboratory (online) (2 semesters)
+2022<br />
+    Biol 3000: Biostatistics Lecture (online) (1 semester) 2022</p>
+</div>
+<div id="iowa-state-university-ames" class="section level3">
+<h3>Iowa State University, Ames</h3>
+<p>    EnSci 490: Independent Study (6 semesters) 2014—2018<br />
+    <strong>EnSci 203: Exploration of Environmental Science</strong> (5
+semesters) 2014—2018<br />
+    <em>EnSci 202: Exploration of Environmental Issues</em> (5
+semesters) 2013—2017<br />
+    <strong>EnSci 204X: Applied Exploration of Environmental Science
+I</strong> (3 semesters) 2015—2017<br />
+    <strong>EnSci 205X: Applied Exploration of Environmental Science
+II</strong> (2 semesters) 2016—2017<br />
+    Biol 486xw: Aquatic Ecology Online (1 semester) 2016<br />
+    <em>Biol 486L: Aquatic Ecology Laboratory</em>, field &amp;
+laboratory components (1 semester) 2013</p>
+</div>
+</div>
+<div id="courses-taught-as-a-teaching-assistant" class="section level2">
+<h2>Courses Taught as a Teaching Assistant</h2>
+<div id="iowa-state-university-ames-1" class="section level3">
+<h3>Iowa State University, Ames</h3>
+<p>    Biol 312L: General Ecology Laboratory, field and laboratory
+components (3 semesters) 2018—2019<br />
+    Biol 212L: Principles of Biology Laboratory II (1 semester)
+2019<br />
+    Biol 394: Study Abroad: Maya Mountains &amp; Calabash Caye,
+international field course (1 semester in classroom, 2 weeks abroad)
+2015<br />
+    Biol 486xw: Aquatic Ecology Online (3 semesters) 2013—2015</p>
+</div>
+</div>
+</div>
+<div id="grants" class="section level1">
+<h1>Grants</h1>
+<p><strong>Professional Development Grant</strong>, Iowa State
+University Environmental Science Program. 2019. Awarded for travel to
+the American Geophysical Union annual meeting. $200<br />
+<strong>Harry and Audrey Finch Scholarship (Finch Funds Award)</strong>,
+Iowa State University Department of Ecology, Evolution, and Organismal
+Biology. 2019. <em>A high-resolution, multiproxy record of climate,
+vegetation, and fire history at the southern limit of the temperate
+tallgrass prairie, USA</em> Awarded for travel to the American
+Geophysical Union annual meeting. $1,000<br />
+<strong>Professional Advancement Grant</strong>, Iowa State University
+Graduate and Professional Student Senate. 2019. Awarded for travel to
+the Botanical Society of America Annual Meeting. $200<br />
+<strong>Professional Advancement Grant Funds Matching</strong>, Iowa
+State University Department of Ecology, Evolution, and Organismal
+Biology. 2019. Awarded for travel to the Botanical Society of America
+Annual Meeting. $100<br />
+<strong>Graduate Student Research Grant</strong>, Geological Society of
+America. 2019. <em>Paleoecology of the Tallgrass Prairie-Ozark Forest
+Ecotone.</em> $2,500<br />
+<strong>Graduate Student Research Grant</strong>, Geological Society of
+America. 2018. <em>Late Quaternary Paleoecology of the Tallgrass
+Prairie-Ozark Forest Ecotone.</em> $2,500<br />
+<strong>Harry and Audrey Finch Scholarship (Finch Funds Award)</strong>,
+Iowa State University Department of Ecology, Evolution, and Organismal
+Biology. 2016. <em>Paleoecological Investigation of the Tallgrass
+Prairie-Ozark Forest Ecotone.</em> $1,500<br />
+<strong>Lois Tiffany Scholarship Award</strong>, Iowa State University
+Department of Ecology, Evolution, and Organismal Biology. 2016.
+<em>Holocene Paleoecology of the Midwestern United States.</em>
+$750<br />
+<strong>Harry and Audrey Finch Scholarship (Finch Funds Award)</strong>,
+Iowa State University Department of Ecology, Evolution, and Organismal
+Biology. 2015. <em>Paleoecology of the bamboo thickets of eastern
+Bolivia.</em> $2,000<br />
+<strong>Curriculum Development Grant</strong>, Iowa State University
+College of Liberal Arts and Sciences. 2014. Awarded to redevelop Biol
+488 - <em>Identification of Aquatic Organisms Online Course.</em>
+$1,000<br />
+<strong>Student Travel Award</strong>, Association for the Sciences of
+Limnology and Oceanography (ASLO). 2014. Awarded for travel to the ASLO
+Annual Meeting. $500</p>
+</div>
+<div id="service-past-three-years" class="section level1">
+<h1>Service (Past Three Years)</h1>
+<p>Member - Master’s of Science in Ecology Council, Western Colorado
+University     2022 - present<br />
+Facilitator - Cultivating Leadership for Change and Justice in the
+Geosciences     2021<br />
+   Workshop 4: Progress and lessons learned after one year of
+anti-racism efforts in the geosciences.<br />
+Facilitator - Cultivating Leadership for Change and Justice in the
+Geosciences     2021<br />
+   Workshop 3: Effective strategies for student organizing. American
+Meteorological Society Annual Meeting<br />
+Facilitator - Cultivating Leadership for Change and Justice in the
+Geosciences     2020<br />
+   Workshop 2: Exploring challenges to diversifying faculty. American
+Geophysical Union Annual Meeting<br />
+Panelist - Biol 606: Ecological Research Methods, Career panel for MS
+Ecology     2020<br />
+   Students about lesser-known subdisciplines of ecology, Western
+Colorado University<br />
+Assistant Facilitator - Cultivating Leadership for Change and Justice in
+the Geosciences     2020<br />
+   Workshop 1: Call to action: Anti-racism efforts in the geosciences.
+Geological Society of America Annual Meeting<br />
+Volunteer - Letters to a Pre-Scientist penpal program     2019</p>
+</div>
+<div id="workshops" class="section level1">
+<h1>Workshops</h1>
+<p><strong>Carroll, H.</strong> and C. Román-Palacios. <em>R stats
+bootcamp: Part 2.</em> Hands-on R statistics and coding workshop.
+Tripati lab, Department of Earth, Planetary, and Space Sciences,
+University of California Los Angeles. 2021.<br />
+<strong>Carroll, H.</strong> <em>Publication quality plotting in R.</em>
+Hands-on R coding workshop for the Statistics Tutoring Center’s
+Statistics Bootcamp series. Western Colorado University, Gunnison. 2021.
+Recording: <a href="https://youtu.be/9cGO9fjtbvg"
+class="uri">https://youtu.be/9cGO9fjtbvg</a><br />
+<strong>Carroll, H.</strong> and C. Román-Palacios. <em>R stats
+bootcamp: Part 1.</em> R statistics demonstration. Tripati lab,
+Department of Earth, Planetary, and Space Sciences, University of
+California Los Angeles. 2021.<br />
+<strong>Carroll, H.</strong> <em>You’ve got data! Now what?: How to pick
+the right tests for your dataset (and why you should choose your tests
+first next time).</em> R workshop in statistics for graduate students.
+Western Colorado University, Gunnison. 2020. Recording: <a
+href="https://www.youtube.com/watch?v=-lKle5byG2Y&amp;feature=youtu.be"
+class="uri">https://www.youtube.com/watch?v=-lKle5byG2Y&amp;feature=youtu.be</a></p>
+</div>
+<div id="invited-talks-and-guest-lectures" class="section level1">
+<h1>Invited Talks and Guest Lectures</h1>
+<p><strong>Carroll, H.</strong> <em>Making sense of warnings, errors,
+and messages in R.</em> Virtual guest lecture for Ecological
+Research<br />
+Methods (Biology 606). 2022. Master’s level course. Western Colorado
+University, Gunnison, CO.<br />
+<strong>Carroll, H.</strong> <em>Introduction to Paleobotany and
+Paleoecology</em>. Virtual guest lecture for Environmental Botany
+(Biology 303). 2022. Stonehill College, Easton, MA.<br />
+<strong>Carroll, H.</strong> <em>Computational data science for
+paleoecology and paleoclimatology.</em> Invited seminar for University
+of Southern California, Los Angeles. 2022.<br />
+<strong>Carroll, H.</strong> <em>Computational data science approaches
+to paleoecology and paleoclimatology.</em> Invited seminar for the
+Geobiology graduate student organization at California Institute of
+Technology, Pasadena. 2021.<br />
+<strong>Carroll, H.</strong> <em>Stable isotopes analysis.</em> Guest
+lecture with lab for general ecology course (Biology 302) in stable
+isotopes analysis using R. 2021. Western Colorado University,
+Gunnison.<br />
+<strong>Carroll, H.</strong> <em>Stable isotopes analysis.</em> Guest
+lecture with lab for general ecology course (Biology 302) in stable
+isotopes analysis using R. 2020. Western Colorado University,
+Gunnison.<br />
+<strong>Carroll, H.</strong> <em>Spatial data wrangling in R.</em>
+Demonstration for LunchinatoRS: an R-focused lunch seminar. 2019. Iowa
+State University, Ames<br />
+<strong>Carroll, H.</strong> <em>New Solutions for Old Problems: The
+Power of Big Data in Late Quaternary Paleoecology.</em> Departmental
+seminar. 2018. University of Washington, Tacoma.<br />
+<strong>Carroll, H.</strong> <em>Stream Health and Ecology.</em> Guest
+lecture with field component. Biology 211 - Introductory Biology for
+Nonmajors. 2018. Iowa State University, Ames.<br />
+<strong>Carroll, H.</strong> <em>Water Quality on the Iowa State
+University Campus.</em> National Pollutant Discharge Elimination System
+Stakeholders Meeting. 2016. Iowa State University, Ames.<br />
+<strong>Carroll, H.</strong> <em>Lake Eutrophication and Land Use.</em>
+Departmental seminar. 2015. University of Wisconsin - Stout,
+Menomonie.</p>
+</div>
+<div id="presentations-and-posters" class="section level1">
+<h1>Presentations and Posters</h1>
+<p><sup>†</sup>Denotes presenter, if other than self | *Indicates
+undergraduate co-author</p>
+<p>Samuelson, R.A.<sup>†</sup>, D.D. Houston, R. Japuntich, D. Cammack,
+and <strong>H.M. Carroll</strong>. 2021. Three-species on the
+move:<br />
+   <em>Tracking movement patterns to inform conservation of three native
+fishes in the Dolores River Basin.</em> Desert Fishes<br />
+   Council Annual Meeting. Virtual Conference.<br />
+Ulrich, R.N.<sup>†</sup>, M. Guillermic, J. Campbell*, A. Hakim*, R.
+Han*, S. Singh*, J.D. Stewart, C. Román-Palacios,<br />
+   <strong>H.M. Carroll</strong>, I. DeCorte, R.E. Gilmore, W. Doss, A.
+Tripati, J.B. Ries, and R.A. Eagle. 2021. <em>Interspecific</em><br />
+   <em>element incorporation in biogenic carbonates recapitulates
+phylogeny for diverse marine species.</em><br />
+   Presentation given at Goldschmidt 2021 virtual meeting.<br />
+J.K. Lucarelli<sup>†</sup>, <strong>H.M. Carroll</strong>, B.
+Purgstaller, M. Dietzel, R.A. Eagle, and A. Tripati. 2021. <em>Paired
+<span class="math inline">\((Δ_{47})\)</span> and <span
+class="math inline">\((Δ_{48})\)</span></em><br />
+   <em>carbonate clumped isotope data: Standard values, multi-instrument
+comparisons, mixing effects, and disequilibrium</em><br />
+   <em>effects.</em> Presentation given at Goldschmidt 2021 virtual
+meeting.<br />
+Samuelson, R.<sup>†</sup>, D. Cammack, <strong>H.M. Carroll</strong>,
+D.D. Houston, R. Japuntich, and K. Thompson. 2021.
+<em>Passive</em><br />
+   <em>monitoring of the native ‘three-species’ in the Dolores River
+Basin and land management implications.</em><br />
+   Presentation given at the CO/WY American Fisheries Society virtual
+conference.<br />
+<strong>Carroll, H.</strong>, A.D. Wanamaker, L.G. Clark, B.E. Caissie,
+and J. Galang*. 2019. <em>A high-resolution, multiproxy
+record</em><br />
+   <em>of climate, vegetation, and fire history at the southern limit of
+the temperate tallgrass prairie, USA.</em><br />
+   American Geophysical Union Meeting, San Francisco, CA<br />
+<strong>Carroll, H.</strong>, A.D. Wanamaker, L.G. Clark, B.J. Wilsey.
+2019. Ambrosia <em>and</em> Artemisia <em>pollen can distinguish
+between</em><br />
+   <em>vegetation types at broad spatial scales.</em> Botanical Society
+of America Annual Meeting, Tucson, AZ<br />
+<strong>Carroll, H.</strong>, L.G. Clark, B.E. Caissie, and A.D.
+Wanamaker. 2019. <em>Late Quaternary vegetation dynamics at
+the</em><br />
+   <em>southern limit of the temperate tallgrass prairie.</em>
+Environmental Science Graduate Student Symposium, Ames, IA<br />
+<strong>Carroll, H.</strong>, L.G. Clark, and A.D. Wanamaker. 2018.
+<em>Preparation of a phytolith reference collection for the study
+of</em><br />
+   <em>late Quaternary paleoecology in Missouri.</em> Environmental
+Science Graduate Student Symposium, Ames, IA<br />
+<strong>Carroll, H.</strong>, 2018. <em>Late Quaternary paleoecology of
+the North American midcontinent.</em> Iowa State University<br />
+   Dept of Ecology, Evolution, and Organismal Biology Three Minute
+Thesis Competition<br />
+<strong>Carroll, H.</strong>, L.G. Clark, and A.D. Wanamaker. 2017.
+<em>Tracking Holocene vegetation change in the tallgrass
+prairie</em><br />
+   <em>region: the power of big data in paleoecology.</em> Environmental
+Science Graduate Student Symposium, Ames, IA<br />
+<strong>Carroll, H.</strong>, C.T. Filstrup, and J.A. Downing. 2016.
+<em>Comparative palynology of two agriculturally eutrophic
+lakes</em><br />
+   Environmental Science Graduate Student Symposium, Ames, IA<br />
+<strong>Carroll, H.</strong> and J.A. Downing. 2015. <em>Water quality
+declines and diversity loss in an agriculturally eutrophic
+landscape</em><br />
+   Environmental Science Graduate Student Symposium, Ames, IA<br />
+<strong>Carroll, H.</strong> and J.A. Downing. 2015.
+<em>Paleolimnological analysis of Iowa’s changing landscapes</em>
+Graduate Research<br />
+   in Evolutionary Biology and Ecology symposium, Ames, IA<br />
+<strong>Julich, H.</strong> and J.A. Downing. 2014. <em>Two hundred
+years of landscape change: Consequences for East Okoboji
+Lake,</em><br />
+   <em>Iowa</em> Assoc. for the Sciences of Limnology and Oceanography
+Meeting, Portland, OR<br />
+<strong>Julich, H.</strong> and J.A. Downing. 2014. <em>Use of
+palynological techniques to reconstruct macrophyte loss and
+multiple</em><br />
+   <em>stable states in a eutrophic lake.</em> Graduate Research in
+Evolutionary Biology and Ecology symposium, Ames, IA<br />
+<strong>Julich, H.</strong> and J.A. Downing. 2013. <em>Use of
+palynological techniques to reconstruct macrophyte loss and
+multiple</em><br />
+   <em>stable states in a eutrophic lake.</em> Assoc. for the Sciences
+of Limnology and Oceanography, New Orleans, LA<br />
+<strong>Julich, H.</strong> and B.J. Becker. 2008. <em>An evaluation of
+conditions in</em> in situ <em>mesocosms</em> Western Society of
+Naturalists<br />
+   Meeting, Vancouver, BC, Canada<br />
+<strong>Julich, H.</strong> and B.J. Becker. 2008. In situ <em>culturing
+of larval sand dollars, </em>Dendraster excentricus<em>, in Friday
+Harbor,</em><br />
+   <em>Washington.</em> University of Washington Tacoma Environmental
+Research Symposium, Tacoma, WA<br />
+<strong>Julich, H.</strong> and B.J. Becker. 2008. In situ <em>culturing
+of larval sand dollars, </em>Dendraster excentricus<em>, in Friday
+Harbor,</em><br />
+   <em>Washington.</em> UW Undergraduate Research Symposium, Seattle,
+WA<br />
+<strong>Julich, H.</strong> and B.J. Becker. 2007. <em>In situ culturing
+of larval sand dollars, </em>Dendraster excentricus<em>, in Friday
+Harbor,</em><br />
+   <em>Washington.</em> Western Society of Naturalists Meeting, Ventura,
+CA</p>
+</div>
+<div id="mentorship" class="section level1">
+<h1>Mentorship</h1>
+<p>[35 total; includes 21 women and 12 students from other historically
+minoritized demographics in STEM;<br />
+undergraduate students except where noted]<br />
+<sup>+</sup>Indicates undergraduate mentee who subsequently completed a
+Master’s<br />
+<em>Italics</em> indicate Master’s or PhD mentee who has successfully
+defended<br />
+<sup>c</sup>Indicates Master’s advisory committee membership |
+<sup>a</sup>Indicates Master’s advisory committee chair</p>
+<div id="university-of-california-los-angeles" class="section level3">
+<h3>University of California, Los Angeles</h3>
+<p>Deepshikha Upadhyay (PhD), <em>Jamie Lucarelli (PhD)</em>, Robert
+Ulrich (PhD), Jade Knighton (PhD), Hannah Tandy (PhD), Randy Flores
+(PhD)</p>
+</div>
+<div id="california-state-university-of-los-angeles-1"
+class="section level3">
+<h3>California State University of Los Angeles</h3>
+<p>Stephanie Varghese, Antonio Dominguez</p>
+</div>
+<div id="western-colorado-university-gunnison" class="section level3">
+<h3>Western Colorado University, Gunnison</h3>
+<p><em>Reece Samuelson (MS)</em>, <em>Ellie Orr (MS)</em>, <em>Bronwyn
+Taylor (MS)</em><sup>c</sup>, Jake Bartholomew (MS)<sup>c</sup>,
+<em>Ashley Hurst (MS)</em><sup>c</sup>, Laurel Trout
+(MS)<sup>a</sup></p>
+</div>
+<div id="iowa-state-university-ames-2" class="section level3">
+<h3>Iowa State University, Ames</h3>
+<p>Jacqueline Galang, Alejand Hernandez-Delgado, Juan-Carlos Mungaray,
+Juan Perez, Kathryn Holmes,<br />
+Logan Crees<sup>+</sup>, Lindsay Mack, Josiah Ihnen, Marlyssa
+Crow<sup>+</sup>, Nicole Stout, Shelby Poole, Samuel Freestone, Emily
+Martin (Honors)<sup>+</sup>, Eric Tagatz, Megan Koppenhafer, Connor
+Nicholas, Molly Zelinskas, Molli Wienhold, Mariah Mahaney, Sarah Leichty
+(Honors)<sup>+</sup>, William Tony Manriquez</p>
+</div>
+</div>
+<div id="selected-trainings-and-certifications" class="section level1">
+<h1>Selected Trainings and Certifications</h1>
+<blockquote>
+<p>*CIRTL: Center for the Integration of Research, Teaching and
+Learning, <a href="https://www.cirtl.net/"
+class="uri">https://www.cirtl.net/</a></p>
+</blockquote>
+<p>CIRTL Certification: <strong>Associate Level Certification in
+University Teaching</strong>. 2021.<br />
+CIRTL Training: <strong>Decolonizing the Curriculum in STEAM</strong>.
+2021.<br />
+CIRTL Training: <strong>Trauma-Responsive Teaching</strong>. 2021.<br />
+CIRTL Training: <strong>Becoming an Anti-Racist Educator</strong>.
+2021.<br />
+IRACDA<!-- breaklink --><span class="citation">@UCLA</span> Training:
+<strong>Interrupting Bias in the Classroom</strong>. 2021.<br />
+<strong>Mental Health First Aid Certification</strong>. 2021.<br />
+<strong>Entering Mentoring Training</strong>. 2021.<br />
+UCLA Center for Education Innovation &amp; Learning in the Sciences
+(CEILS) Online Summer Scientific Teaching Institute: <strong>Foundations
+of Equitable Course Design &amp; Inclusive Teaching</strong>. 2021.</p>
+</div>
+<div id="interviews-in-the-popular-or-university-press"
+class="section level1">
+<h1>Interviews in the Popular or University Press</h1>
+<p>Taylor, B., <strong>H.M. Carroll</strong>, and R. Bingham. <em>In
+press</em>. The Reproductive Ecology of <em>Astragalus microcymbus</em>.
+Aquilegia Magazine. Colorado Native Plant Society.</p>
+<p>Iowa State University Department of Ecology, Evolution, and
+Organismal Biology. Departmental Spotlight. “Introducing environmental
+science to a growing number of undergraduates.” September 2017</p>
+<p>Visions Magazine (Iowa State University Alumni Association). “Three
+Billion Years: The Evolution of a State.” November 2016</p>
+<p>Environmental Monitor. <a
+href="http://www.fondriest.com/news/future-scientists-get-real-world-skills-iowa-state-water-quality-monitoring-courses.htm">“Future
+scientists get real-world skills in Iowa State water quality monitoring
+courses.”</a> March 5, 2014</p>
+<p>Iowa State Daily. <a
+href="http://www.iowastatedaily.com/news/article_01050a06-9fe2-11e3-9d48-001a4bcf887a.html">“ISU
+students to monitor campus impact on water.”</a> February 28, 2014</p>
+<p>Ames Tribune. <a
+href="http://www.amestrib.com/news/ames-and-story-county/isu-students-study-campus-impact-waterways">“ISU
+students study campus impact on waterways.”</a> February 25, 2014</p>
+<p>Iowa State University News Service. <a
+href="http://www.news.iastate.edu/news/2014/02/19/watertesting2014">“Iowa
+State students will check water quality on campus this semester.”</a>
+February 19, 2014</p>
+<p>Iowa State Daily. “Carolyn Hoskinson makes first appearance in Iowa,
+speaks out about underground leakage.” November 19, 2013</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

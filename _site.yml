@@ -1,0 +1,21 @@
+name: "Western Paleoecology Lab"
+output_dir: "docs"
+navbar:
+  title: "Western Paleoecology Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
+    - text: "Lab news"
+      href: news.html
+output:
+  html_document:
+    variant: gfm
+    preserve_yaml: TRUE
