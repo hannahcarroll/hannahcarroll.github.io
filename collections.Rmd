@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+# Collections
+
+::: {style="float:right;position: relative; top: -15px; padding: 10px"}
+![](images/aalogo2.gif){width="150"}
+:::
+
+The Flora of Missouri project cataloged the phytoliths of 117 species native to Missouri, using material from specimens in Iowa State University's [Ada Hayden Herbarium](https://www.herbarium.iastate.edu/)
+
+::: {style="float:left;position: relative; top: 0px; padding: 10px"}
+![*Ulmus americana*](images/20180226_110051.jpg){height="400"}
+:::
+
+The physical reference collection is permanently housed in the Ada Hayden Herbarium. The digital reference collection, consisting of more than 500 images, is available via the [PhytCore database](https://www.phytcore.org/phytolith/index.php?rdm=eGRbjhsuJo&action=searchphyt) by selecting "Ada Hayden Herbarium" under the Research Group dropdown menu.
+
+![*Aristida adscensionis*](images/Aristida%20adscensionis%20400x%20dic%20ISC-281706_3.jpg){height="220"}![*Liatris mucronata*](images/Liatris%20mucronata%20600x%20dic%20oil%20zseries%20ISC-206084_2.jpeg){height="220"}

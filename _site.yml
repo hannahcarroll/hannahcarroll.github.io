@@ -13,6 +13,8 @@ navbar:
       href: publications.html
     - text: "Software"
       href: software.html
+    - text: "Collections"
+      href: collections.html
     - text: "Lab news"
       href: news.html
 output:
