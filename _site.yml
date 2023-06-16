@@ -1,7 +1,7 @@
 name: "Western Paleoecology Lab"
 output_dir: "docs"
 navbar:
-  title: "Western Paleoecology Lab"
+  title:
   left:
     - text: "Home"
       href: index.html
