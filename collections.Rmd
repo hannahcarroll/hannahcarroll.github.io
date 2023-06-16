@@ -17,3 +17,4 @@ The Flora of Missouri project cataloged the phytoliths of 117 species native to 
 The physical reference collection is permanently housed in the Ada Hayden Herbarium. The digital reference collection, consisting of more than 500 images, is available via the [PhytCore database](https://www.phytcore.org/phytolith/index.php?rdm=eGRbjhsuJo&action=searchphyt) by selecting "Ada Hayden Herbarium" under the Research Group dropdown menu.
 
 ![*Aristida adscensionis*](images/Aristida%20adscensionis%20400x%20dic%20ISC-281706_3.jpg){height="220"}![*Liatris mucronata*](images/Liatris%20mucronata%20600x%20dic%20oil%20zseries%20ISC-206084_2.jpeg){height="220"}
+
