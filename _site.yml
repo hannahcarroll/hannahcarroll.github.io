@@ -1,7 +1,7 @@
 name: "Western Paleoecology Lab"
 output_dir: "docs"
 navbar:
-  title:
+  title: "<img id=\"logo\" style=\"height: 30px;\" src=\"images/WCU_Main-new-1.svg\" />"
   left:
     - text: "Home"
       href: index.html

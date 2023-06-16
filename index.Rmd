@@ -3,7 +3,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ![](images/copper.png){width="100%"}
@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ------------------------------------------------------------------------
 
 ::: {style="float:right;position: relative; top: -25px; padding: 5px"}
-![](images/Distichlis spicata DIC 600x oil z-series_ISC-415743_2.jpg){width="250"}
+![](images/Distichlis%20spicata%20DIC%20600x%20oil%20z-series_ISC-415743_2.jpg){width="250"}
 :::
 
 ### **Dr. Hannah M. Carroll** [![Email](envelope-solid.svg){width="20"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="20"}](https://github.com/hannahcarroll) [![Research Gate](researchgate.svg){width="20"}](https://www.researchgate.net/profile/Hannah-Carroll-7)
@@ -24,6 +24,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
-### The Western Paleoecology Lab is a group of researchers based in the beautiful Gunnison Valley. We share cross-disciplinary interests in ecology, conservation, restoration, climate, and biogeochemistry. [Learn More](research.html)  
+### The Western Paleoecology Lab is a group of researchers based in the beautiful Gunnison Valley. We share cross-disciplinary interests in ecology, conservation, restoration, climate, and biogeochemistry. [Learn More](research.html)
 
 ![](images/bottombanner.jpg){width="100%"}

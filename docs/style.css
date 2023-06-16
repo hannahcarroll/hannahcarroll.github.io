@@ -5,7 +5,9 @@ body {
   font-size: 14pt;
 }
 
-navbar {
-    background: url(images/headerimage.jpg) cover;
-    width: 100%;
+ .logo-image{
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
 }
