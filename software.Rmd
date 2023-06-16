@@ -6,4 +6,20 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Software
+# BayClump: Bayesian Methods for Clumped Isotope Paleothermometry
+
+<center>
+![](images/bayclump.png){width="175"}
+</center>
+
+BayClump was developed to support and facilitate the use of Bayesian models and analyses involving clumped isotope calibration datasets, and associated temperature reconstructions. BayClump is a self-contained R Shiny Dashboard application which facilitates the comparisons of Bayesian and frequentist models for analyzing clumped isotope datasets for paleoclimatic reconstructions.
+
+Public website: <https://bayclump.tripatilab.epss.ucla.edu/>
+
+# The 'bayclumpr' package for R
+
+'bayclumpr' is an R package for simulating synthetic clumped isotope datasets, fitting linear regression models under Bayesian and non-Bayesian frameworks, and generating temperature reconstructions
+
+Find the project page here: <https://tripati-lab.github.io/bayclumpr/>
+
+And the CRAN page here: <https://cran.r-project.org/web/packages/bayclumpr/index.html>

@@ -30,6 +30,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Technical Publications
 
+12\. Taylor, B., **H.M. Carroll**, and R. Bingham. In press. The Reproductive Ecology of *Astragalus microcymbus*. Aquilegia Magazine. Colorado Native Plant Society.
+
 11\. Román-Palacios, C., **H.M. Carroll**, and A. Tripati. 2023. 'bayclumpr': Bayesian Analysis of Clumped Isotope Datasets. R package version 0.1.0. <https://cran.r-project.org/package=bayclumpr>
 
 10\. **Significant contributor**, Municipal separate storm sewer system 2017 annual report. Department of Environmental Health and Safety and Facilities Planning and Management. Iowa State University.

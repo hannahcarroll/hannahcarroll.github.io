@@ -17,7 +17,7 @@ library(fontawesome)
 
 ##### Principal Investigator
 
-![](images/20190114.jpg){width="300"}
+![](images/ANf_H3th_400x400.jpg){width="300"}
 
 [![Email](envelope-solid.svg){width="30"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="30"}](https://github.com/hannahcarroll) [![ORCiD](orcid.svg){width="30"}](https://orcid.org/0000-0003-3343-3358) [![Research Gate](researchgate.svg){width="30"}](https://www.researchgate.net/profile/Hannah-Carroll-7) [![Google Scholar](google.svg){width="30"}](https://scholar.google.com/citations?user=rzsu0zoAAAAJ&hl=en&authuser=4) [![Twitter](twitter.svg){width="30"}](https://twitter.com/hmcarro)
 [![CV](cv-icon-10.png){width="30"}](CV_web.html)

@@ -6,4 +6,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Home Page
+![](images/copper.png){width="100%"}
+
+### **Dr. Hannah. M Carroll** [![Email](envelope-solid.svg){width="30"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="30"}](https://github.com/hannahcarroll) [![Research Gate](researchgate.svg){width="30"}](https://www.researchgate.net/profile/Hannah-Carroll-7)
+
+### Assistant Professor of Environmental Science and Ecology  
+[Clark School of Environment and Sustainability](https://western.edu/school/school-environment-sustainability/); 
+[Department of Natural and Environmental Sciences](https://western.edu/department/natural-environmental-sciences/)
+Western Colorado University
+
+> The Western Paleoecology Lab is a group of researchers based in the beautiful Gunnison Valley, with cross-disciplinary interests in ecology, conservation, restoration, climate, and biogeochemistry. [Learn More](research.html)
