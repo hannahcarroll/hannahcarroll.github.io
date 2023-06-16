@@ -8,6 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/copper.png){width="100%"}
 
+# Welcome to the Western Paleoecology Lab
+
+------------------------------------------------------------------------
+
 ### **Dr. Hannah M. Carroll** [![Email](envelope-solid.svg){width="20"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="20"}](https://github.com/hannahcarroll) [![Research Gate](researchgate.svg){width="20"}](https://www.researchgate.net/profile/Hannah-Carroll-7)
 
 #### **Assistant Professor of Environmental Science and Ecology**
