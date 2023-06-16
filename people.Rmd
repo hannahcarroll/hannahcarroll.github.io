@@ -19,15 +19,23 @@ library(fontawesome)
 
 ![](images/ANf_H3th_400x400.jpg){width="300"}
 
-[![Email](envelope-solid.svg){width="30"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="30"}](https://github.com/hannahcarroll) [![ORCiD](orcid.svg){width="30"}](https://orcid.org/0000-0003-3343-3358) [![Research Gate](researchgate.svg){width="30"}](https://www.researchgate.net/profile/Hannah-Carroll-7) [![Google Scholar](google.svg){width="30"}](https://scholar.google.com/citations?user=rzsu0zoAAAAJ&hl=en&authuser=4) [![Twitter](twitter.svg){width="30"}](https://twitter.com/hmcarro)
-[![CV](cv-icon-10.png){width="30"}](CV_web.html)
+[![Email](envelope-solid.svg){width="30"}](mailto:hcarroll@western.edu) [![GitHub](github.svg){width="30"}](https://github.com/hannahcarroll) [![ORCiD](orcid.svg){width="30"}](https://orcid.org/0000-0003-3343-3358) [![Research Gate](researchgate.svg){width="30"}](https://www.researchgate.net/profile/Hannah-Carroll-7) [![Google Scholar](google.svg){width="30"}](https://scholar.google.com/citations?user=rzsu0zoAAAAJ&hl=en&authuser=4) [![Twitter](twitter.svg){width="30"}](https://twitter.com/hmcarro) [![CV](cv-icon-10.png){width="30"}](CV_web.html)
 
 ------------------------------------------------------------------------
 
-### Laurel Trout
+### Laurel Trout (she/her) [![Email](envelope-solid.svg){width="30"}](mailto:laurel.trout@western.edu)
 
 ##### Master's of Science in Ecology student (3+2)
+
 ###### Denver Botanic Gardens 2023 Summer Horticulture Intern
+
+<div style= "float:left;position: relative; top: 0px; padding: 10px">
+![](images/LaurelTrout.jpg){width="300"} 
+</div>
+
+Laurel's thesis research is reconstructing precipitation shifts in the western United States through the Last Glacial Maximum, as far back as 22,000 years ago. She is utilizing fossil pollen records from the Neotoma Paleoecology Database to undertake this large-scale spatiotemporal reconstruction. From these records, she is extracting fossil pollen from the genera *Artemisia*, which is resilient to drought, and *Ambrosia*, which is moderately sensitive to drought. These genera differ in their response to disturbance, making them model genera for precipitation reconstructions. She is also producing a correction factor for the disturbance signal produced by European colonization in the Western United States. She aims to improve the overall accuracy and refine error estimates of spatiotemporal precipitation reconstructions using the log ratio of *Ambrosia* to *Artemisia* pollen. Results could serve as a proxy for future climate change projections, providing key information to inform management decisions.
+
+Laurel's hobbies include trail running and hiking, and she has recently started rock climbing. She has lived in Gunnison, Colorado for 3 years and is originally from Durango, Colorado.
 
 ------------------------------------------------------------------------
 
