@@ -39,11 +39,21 @@ Laurel's hobbies include trail running and hiking, and she has recently started 
 
 ------------------------------------------------------------------------
 
-### Phoebe Roberts
+### Phoebe Roberts (she/her) [![Email](envelope-solid.svg){width="30"}](mailto:phoebe.roberts@western.edu)
 
 ##### EMPLOYS student (MSE & MEM)
 
 ###### High Country Conservation Advocates Fellow
+
+<div style= "float:left;position: relative; top: 0px; padding: 10px">
+![](images/PhoebeRoberts.jpg){width="300"}  
+
+</div>
+
+Phoebe is a dual degree MSE and MEM student through the EMPLOYS program. Her MSE thesis will apply paleoecological techniques to develop a pre-European settlement vegetation baseline in critical Gunnison Sage Grouse habitat in order to develop a benchmark to help guide future restoration efforts and provide a deeper understanding of Gunnison Sage Grouse habitat requirements. She will use silica plant fossils called phytoliths to identify key historic botanical genera correlated to pre-European Gunnison Sage Grouse habitat. The goal is to determine how the composition of botanical genera have been altered following the decline in population of Gunnison Sage Grouse, and to identify key genera correlated to Sage Grouse habitat. She hopes her thesis will provide adequate environmental data to help aid environmental managers with restoration or conservation efforts pertaining to Gunnison Sage Grouse and all other wildlife associated with the sage steppe ecosystem.  
+
+For her MEM project, Phoebe will apply her findings to a Gunnison Sage Grouse restoration project by selecting key species for seed mix composition and species most resilient to climate change. She hopes that her findings will help ensure that the habitat is restored within realistic expectations, and that resources are applied appropriately to conservation efforts.
+Originally from Issaquah, Washington, Phoebe has lived in the Gunnison valley on and off since 2016. She has worked a variety of ecological monitoring and wildlife jobs after graduating from the University of Oregon with a BS in Environmental Science, sparking her interest in ecology. In her spare time, she enjoys mountain biking and snowboarding.
 
 ------------------------------------------------------------------------
 
