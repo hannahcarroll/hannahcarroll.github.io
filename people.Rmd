@@ -23,6 +23,8 @@ library(fontawesome)
 
 ------------------------------------------------------------------------
 
+## Graduate Students
+
 ### Laurel Trout (she/her) [![Email](envelope-solid.svg){width="30"}](mailto:laurel.trout@western.edu)
 
 ##### Master's of Science in Ecology student (3+2)
@@ -57,12 +59,6 @@ Originally from Issaquah, Washington, Phoebe has lived in the Gunnison valley on
 
 ------------------------------------------------------------------------
 
-### Naomi Koster
-
-##### EMPLOYS student (MSE & MEM)
-
-------------------------------------------------------------------------
-
 ### Destan Gerhard (he/him/his)[![Email](envelope-solid.svg){width="30"}](mailto:destan.gerhard@western.edu)
 
 ##### Master's of Environmental Management student
@@ -86,3 +82,10 @@ Outside of my schoolwork and research, I’m a dog, cat, and bunny parent with m
 ### Caleb Park
 
 ##### Master's of Environmental Management student
+
+------------------------------------------------------------------------
+
+## Undergraduate Researchers
+
+### Kamis Monohan  
+### Laura Brignoli
