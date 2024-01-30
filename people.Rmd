@@ -85,7 +85,31 @@ Outside of my schoolwork and research, I’m a dog, cat, and bunny parent with m
 
 ------------------------------------------------------------------------
 
+### Jenna Tansill (she/her) [![Email](envelope-solid.svg){width="30"}](mailto:jennifer.tansill@western.edu)  
+
+##### Master's of Ecology student (incoming Fall 2024)
+
+<div style= "float:left;position: relative; top: 0px; padding: 10px">
+![](images/JennaTansill.jpg){width="300"}  
+</div>
+
+Jenna’s thesis research includes collaboration with the United States Forest Service (USFS) and involved permittees to perform relatively standard vegetation monitoring across the Gunnison County on leased allotments to evaluate the impact of grazing on critical Gunnison Sage Grouse habitat in each browsed pasture. Alongside the vegetation monitoring structure, she plans to implement a Geographic Information System (GIS) aspect to comprehend the broader spatial extent of the collected data throughout the landscape and in situ methods to understand the interaction between anthropogenic disturbance and phenology on vegetation structure and obligate species habitat to determine alternative approaches to managing the sagebrush steppe ecosystem.  
+
+Jenna is a Colorado native, originally from Monument, Colorado. She’s been in the Gunnison Valley for the past couple of years living out of a renovated off grid cargo trailer with her chocolate companion, Rooster. She’s an advocate for the Honorable Harvest and extending reciprocity to the land. During her spare time, she enjoys backpacking, climbing, mountain biking, snowboarding, and anything that brings her closer to the natural world.  
+
+------------------------------------------------------------------------
+
 ## Undergraduate Researchers
 
 ### Kamis Monohan  
-### Laura Brignoli
+
+##### Senior in Biology, Chemistry minor  
+
+<div style= "float:left;position: relative; top: 0px; padding: 10px">
+![](images/Monohan.jpg){width="300"}  
+
+### Laura Brignoli  
+
+##### Senior in Biology, Chemistry minor  
+
+</div>
