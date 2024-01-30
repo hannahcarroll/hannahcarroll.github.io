@@ -111,9 +111,12 @@ Jenna is a Colorado native, originally from Monument, Colorado. She’s been in 
 
 <div style= "float:left;position: relative; top: 0px; padding: 10px">
 ![](images/Monohan.jpg){width="300"}  
+Project: Assessing energy flow and trophic interactions in a tailwater fishery using stable isotopes of carbon and nitrogen  
 
 ### Laura Brignoli  
 
 ##### Senior in Biology, Chemistry minor  
+
+Project: Assessing long-term hydroclimatic variability in the high southern Rockies using light stable isotopes of oxygen in alpine lake sediments  
 
 </div>
