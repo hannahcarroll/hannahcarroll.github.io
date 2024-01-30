@@ -25,6 +25,8 @@ library(fontawesome)
 
 ## Graduate Students
 
+------------------------------------------------------------------------
+
 ### Laurel Trout (she/her) [![Email](envelope-solid.svg){width="30"}](mailto:laurel.trout@western.edu)
 
 ##### Master's of Science in Ecology student (3+2)
@@ -100,6 +102,8 @@ Jenna is a Colorado native, originally from Monument, Colorado. She’s been in 
 ------------------------------------------------------------------------
 
 ## Undergraduate Researchers
+
+------------------------------------------------------------------------
 
 ### Kamis Monohan  
 
